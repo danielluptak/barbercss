@@ -6,7 +6,7 @@
 }
 
 .service-widget .choose-service .header h3 {
-    font-family: "Bebas Neue" !important;
+    font-family: "Raleway" !important;
 }
 
 .service-widget .step {
@@ -19,7 +19,7 @@
 }
 
 .service-widget .widget-categories .category .category .white-text {
-    font-family: "Bebas Neue" !important;
+    font-family: "Raleway", Helvetica, Arial, sans-serif !important;
 }
 
 .service-widget .widget-categories .category .category.selected .white-text{
@@ -31,7 +31,7 @@
 }
 
 .service-widget .choose-service .widget-services .service .item {
-    font-family: "Bebas Neue" !important;
+    font-family: "Raleway", Helvetica, Arial, sans-serif !important;
     letter-spacing: 1px;
 }
 
@@ -61,7 +61,7 @@
 }
 
 .widget-workers .worker .worker-item .name{
-    font-family: "Raleway" !important;
+    font-family: "Raleway", Helvetica, Arial, sans-serif !important;
     color: #585858 !important;
     background-color: #FFFFFF !important;
     border-radius: 0 !important;
@@ -124,12 +124,12 @@
 }
 
 .information a {
-    font-family: "Bebas Neue" !important;
+    font-family: "Raleway", Helvetica, Arial, sans-serif !important;
     color: #fff !important;
 }
 
 .error {
-    font-family: "Bebas Neue" !important;
+    font-family: "Raleway", Helvetica, Arial, sans-serif !important;
     color: #fff !important;
     background-color: #212020 !important;
 }
@@ -139,7 +139,7 @@
 }
 
 .alert.alert-notice {
-    font-family: "Bebas Neue" !important;
+    font-family: "Raleway", Helvetica, Arial, sans-serif !important;
     letter-spacing: 1px !important;
     background-color: #fff !important;
 }
