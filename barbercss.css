@@ -1,0 +1,169 @@
+.portrait {
+    overflow: hidden !important;
+}
+.service-widget .category {
+    border-radius: 30px !important;
+}
+
+.service-widget .choose-service .header h3 {
+    font-family: "Raleway", Helvetica, Arial, sans-serif !important;
+}
+
+.service-widget .step {
+    background-color: #585858 !important;
+}
+
+.service-widget .widget-categories .category .category, .service-widget .date-time .choose-date-time .widget-time .titles .title {
+    background-color: #585858 !important;
+    opacity: 1 !important;
+}
+
+.service-widget .widget-categories .category .category .white-text {
+    font-family: "Raleway", Helvetica, Arial, sans-serif !important;
+}
+
+.service-widget .widget-categories .category .category.selected .white-text{
+    color:#fff !important;
+}
+
+.service-widget .widget-categories .header {
+    padding: 3em 5px
+}
+
+.service-widget .choose-service .widget-services .service .item {
+    font-family: "Raleway", Helvetica, Arial, sans-serif !important;
+    letter-spacing: 1px;
+}
+
+.service-widget .choose-service .widget-services .service.selected, .service-widget .choose-worker .widget-workers .worker.selected, .service-widget .choose-terms .widget-terms .term.selected, .service-widget .date-time .choose-date-time .widget-time .times .title, .service-widget .summary .summary-panel .pay-panel-payment .pay.selected .bank-name, .service-widget .summary .summary-panel .sum-panel .name, .service-widget .summary .summary-panel .sum-price .price, .ui-calendar .ui-datepicker .ui-datepicker-calendar thead, footer .content .buttons .button#create-res, .service-widget .participants-count .count-wrapper .service-info, .service-widget .participants-count .next-services .service.selected, .btn-teal:hover {
+    color: #fff !important;
+}
+
+.service-widget .widget-categories .step-line, .service-widget .choose-service .step-line, .service-widget .choose-worker .step-line, .service-widget .choose-items .step-line, .service-widget .choose-terms .step-line, .service-widget .customer-request .step-line, .service-widget .date-time .choose-date-time .step-line, .service-widget .date-time .choose-date-time .step-line span, .service-widget .date-time .step-line-hour-1, .service-widget .choose-service .widget-services .service.selected, .service-widget .choose-worker .widget-workers .worker.selected, .service-widget .choose-terms .widget-terms .term.selected, .radio-button-teal input[type="radio"] + label, .service-widget .widget-categories .step-line span.top-horizontal, .service-widget .widget-categories .step-line span.bottom-horizontal, .service-widget .choose-service .step-line span.bottom-horizontal, .service-widget .choose-worker .step-line span.bottom-horizontal, .service-widget .choose-terms .step-line span.bottom-horizontal, .service-widget .choose-items .step-line span.bottom-horizontal, .service-widget .customer-request .step-line span.bottom-horizontal, .service-widget .date-time .choose-date-time .step-line span.bottom-horizontal, .service-widget .personal-information .information .customer-info.highlighted .icon, .service-widget .personal-information .information .customer-info.highlighted .field input[type="text"], .service-widget .summary .summary-panel .pay-panel-payment .pay.selected, footer .content .buttons .button#create-res, .field-with-icon, .service-widget .participants-count .count-wrapper .service-info, .service-widget .participants-count .next-services .service.selected, .service-widget .participants-count .step-line, .service-widget .participants-count .step-line span.bottom-horizontal, .btn-teal, .btn-teal:hover {
+    border-color: #585858 !important;
+    color: #fff !important;
+    border-radius: 30px !important;
+    background-color: #585858 !important;
+}
+
+.service-widget .choose-worker .widget-workers .worker .worker-item .image {
+    overflow: hidden;
+    border-radius: 50%;
+    filter: grayscale(100%);
+}
+
+.service-widget .choose-worker .widget-workers .worker label {
+    visibility: hidden;
+}
+
+.service.selected .price {
+    color: #fff !important;
+}
+
+.widget-workers .worker .worker-item .name{
+    font-family: "Raleway", Helvetica, Arial, sans-serif !important;
+    color: #585858 !important;
+    background-color: #fff !important;
+    border-radius: 30px !important;
+    margin-top: 12px;
+}
+
+.service-widget .personal-information .information .input-field .icon {
+    min-width: 45px;
+    background-color: #585858 !important;
+    border-top-left-radius: 0px !important; 
+    border-bottom-left-radius: 0px !important;
+    border: 1px solid #585858 !important;
+    border-right: 0;
+}
+
+.service-widget .widget-categories .step-line, .service-widget .choose-service .step-line, .service-widget .choose-worker .step-line, .service-widget .choose-items .step-line, .service-widget .choose-terms .step-line, .service-widget .customer-request .step-line, .service-widget .date-time .choose-date-time .step-line, .service-widget .date-time .choose-date-time .step-line span, .service-widget .date-time .step-line-hour-1, .service-widget .choose-service .widget-services .service.selected, .service-widget .choose-worker .widget-workers .worker.selected, .service-widget .choose-terms .widget-terms .term.selected, .radio-button-teal input[type="radio"] + label, .service-widget .widget-categories .step-line span.top-horizontal, .service-widget .widget-categories .step-line span.bottom-horizontal, .service-widget .choose-service .step-line span.bottom-horizontal, .service-widget .choose-worker .step-line span.bottom-horizontal, .service-widget .choose-terms .step-line span.bottom-horizontal, .service-widget .choose-items .step-line span.bottom-horizontal, .service-widget .customer-request .step-line span.bottom-horizontal, .service-widget .date-time .choose-date-time .step-line span.bottom-horizontal, .service-widget .personal-information .information .customer-info.highlighted .icon, .service-widget .personal-information .information .customer-info.highlighted .field input[type="text"], .service-widget .summary .summary-panel .pay-panel-payment .pay.selected, footer .content .buttons .button#create-res, .field-with-icon, .service-widget .participants-count .count-wrapper .service-info, .service-widget .participants-count .next-services .service.selected, .service-widget .participants-count .step-line, .service-widget .participants-count .step-line span.bottom-horizontal, .btn-teal, .btn-teal:hover {
+    font-family: "Raleway", Helvetica, Arial, sans-serif !important;
+}
+
+.ui-datepicker-header .ui-corner-all {
+    border-radius: 30px !important;
+}
+
+.ui-datepicker-header .ui-datepicker-next,
+.ui-datepicker-header .ui-datepicker-prev,
+.ui-datepicker-header .ui-state-hover.ui-datepicker-next-hover,
+.ui-datepicker-header .ui-state-hover.ui-datepicker-prev-hover {
+    background-color: transparent !important;
+}
+
+.ui-datepicker-header .ui-datepicker-next::before,
+.ui-datepicker-header .ui-datepicker-prev::before {
+    color: #000000 !important;
+}
+
+.ui-datepicker-header .ui-state-disabled {
+    background-color: transparent !important;
+    opacity: 0.5 !important;
+}
+
+.ui-calendar .ui-datepicker .ui-datepicker-calendar tbody tr td a {
+    border-radius: 30px !important;
+}
+
+.ui-calendar .ui-datepicker .ui-datepicker-calendar tbody tr td.ui-datepicker-current-day a.ui-state-active {
+    background-color: #585858 !important;
+}
+
+.service-widget .date-time .choose-date-time .widget-time .times .hours .hour.selected {
+    background-color: #585858 !important;
+    border-radius: 30px !important;
+}
+
+.service-widget .personal-information .information .input-field .icon {
+   border-radius: 30px !important;
+}
+
+.service-widget .personal-information .information .input-field .field input[type="text"], .service-widget .personal-information .information .input-field .field textarea {
+    border-radius: 30px !important;
+}
+
+.information a {
+    font-family: "Raleway", Helvetica, Arial, sans-serif !important;
+    color: #000000 !important;
+}
+
+.error {
+    font-family: "Raleway", Helvetica, Arial, sans-serif !important;
+    color: #fff !important;
+    background-color: #212020 !important;
+}
+
+.service-widget .widget-categories .header h3 {
+    margin-top: 24px !important;
+}
+
+.alert.alert-notice {
+    font-family: "Raleway", Helvetica, Arial, sans-serif !important;
+    letter-spacing: 1px !important;
+    background-color: #fff !important;
+}
+
+
+@media screen and (max-width: 767px) {
+    .service-widget .choose-worker .widget-workers .worker .worker-item .name {
+        left: 0 !important; 
+        top: 0 !important;
+        right: 0 !important; 
+        height: auto !important; 
+        position: relative !important;
+    }
+
+    .service-widget .choose-worker .widget-workers .worker .worker-item .image {
+        width: 200px !important;
+        height: 200px !important;
+    }
+    
+}
+
+/* seda
+#585858;
+Biela
+#fff;
+cierna
+#000000 */
