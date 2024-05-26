@@ -107,6 +107,7 @@ footer .content .buttons .button#create-res,
   overflow: hidden;
   border-radius: 50%;
   filter: grayscale(100%);
+  border: 2px solid black !important;
 }
 
 .service-widget .choose-worker .widget-workers .worker label {
@@ -288,6 +289,7 @@ footer .content .buttons .button#create-res,
   .service-widget .choose-worker .widget-workers .worker .worker-item .image {
     width: 200px !important;
     height: 200px !important;
+    border: 2px solid black !important;
   }
 }
 
