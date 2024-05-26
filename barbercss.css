@@ -24,7 +24,7 @@
 }
 
 .service-widget .widget-categories .category .category.selected .white-text {
-  color: rgba(0, 0, 0, 0.1) !important;
+  color: #fff !important;
 }
 
 .service-widget .widget-categories .header {
@@ -53,7 +53,7 @@ footer .content .buttons .button#create-res,
 .service-widget .participants-count .count-wrapper .service-info,
 .service-widget .participants-count .next-services .service.selected,
 .btn-teal:hover {
-  color: rgba(0, 0, 0, 0.1) !important;
+  color: #fff !important;
 }
 
 .service-widget .widget-categories .step-line,
@@ -98,7 +98,7 @@ footer .content .buttons .button#create-res,
 .btn-teal,
 .btn-teal:hover {
   border-color: #585858 !important;
-  color: rgba(0, 0, 0, 0.1) !important;
+  color: #fff !important;
   border-radius: 30px !important;
   background-color: #585858 !important;
 }
@@ -114,14 +114,13 @@ footer .content .buttons .button#create-res,
 }
 
 .service.selected .price {
-  color: rgba(0, 0, 0, 0.1) !important;
+  color: #fff !important;
 }
 
 .widget-workers .worker .worker-item .name {
   font-family: "Raleway", Helvetica, Arial, sans-serif !important;
   color: #585858 !important;
-  background-color: rgba(0, 0, 0, 0.1) !important; /* Add this line */
-
+  background-color: #fff !important;
   border-radius: 30px !important;
   margin-top: 12px;
 }
@@ -133,6 +132,18 @@ footer .content .buttons .button#create-res,
   border-bottom-left-radius: 0px !important;
   border: 1px solid #585858 !important;
   border-right: 0;
+}
+
+@media screen and (max-width: 767px) {
+  .service-widget
+    .choose-worker
+    .widget-workers
+    .worker
+    .worker-item
+    .image
+    img {
+    border: 2px solid black;
+  }
 }
 
 .service-widget .widget-categories .step-line,
@@ -251,7 +262,7 @@ footer .content .buttons .button#create-res,
 
 .error {
   font-family: "Raleway", Helvetica, Arial, sans-serif !important;
-  color: rgba(0, 0, 0, 0.1) !important;
+  color: #fff !important;
   background-color: #212020 !important;
 }
 
@@ -262,7 +273,7 @@ footer .content .buttons .button#create-res,
 .alert.alert-notice {
   font-family: "Raleway", Helvetica, Arial, sans-serif !important;
   letter-spacing: 1px !important;
-  background-color: rgba(0, 0, 0, 0.1) !important; /* Add this line */
+  background-color: #fff !important;
 }
 
 @media screen and (max-width: 767px) {
