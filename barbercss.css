@@ -135,17 +135,11 @@ footer .content .buttons .button#create-res,
   border-right: 0;
 }
 
-@media screen and (max-width: 767px) {
-  .service-widget
-    .choose-worker
-    .widget-workers
-    .worker
-    .worker-item
-    .image
-    img {
-    border: 2px solid black !important;
-  }
+/* @media screen and (max-width: 767px) { */
+.service-widget .choose-worker .widget-workers .worker .worker-item .image img {
+  border: 2px solid black !important;
 }
+/* } */
 
 .service-widget .widget-categories .step-line,
 .service-widget .choose-service .step-line,
