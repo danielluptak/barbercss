@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-    <!-- timestamp="2026-04-08T22:56:37.316+02:00" -->
+    <!-- timestamp="2026-04-08T23:38:37.338+02:00" -->
     <SHOP>
         <SHOPITEM>
             <ITEM_ID>-529706</ITEM_ID>
@@ -85,30 +85,6 @@ Hlavn&#xe9; vlastnosti:
             <MANUFACTURER>HUAWEI ORIGINÁL</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/huawei-reproduktor-am08?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/9110/detail-image.jpeg</IMGURL>
-            <ITEM_TYPE>new</ITEM_TYPE>
-            
-            <DELIVERY_DATE></DELIVERY_DATE>
-            <DELIVERY>
-                <DELIVERY_ID>SPS</DELIVERY_ID>
-                <DELIVERY_PRICE>0.00</DELIVERY_PRICE>
-                <DELIVERY_PRICE_COD>0.00</DELIVERY_PRICE_COD>
-            </DELIVERY>
-        </SHOPITEM>
-        <SHOPITEM>
-            <ITEM_ID>-522742</ITEM_ID>
-            <EAN>5705260083835</EAN>
-            <PRODUCTNAME>Bang & Olufsen Beosound A1</PRODUCTNAME>
-            <PRODUCT>Bang & Olufsen Beosound A1</PRODUCT>
-            <DESCRIPTION> Nez&#xe1;le&#x17e;&#xed; na tom kde ste. V&#x10f;aka nov&#xe9;mu bezdr&#xf4;tov&#xe9;mu reproduktoru od spolo&#x10d;nosti Bang &amp; Olufsen si m&#xf4;&#x17e;ete u&#x17e;&#xed;va&#x165; zvuk v nekompromisnej kvalite s v&#xfd;konom a&#x17e; 60W. 
-
-Druh&#xe1; gener&#xe1;cia reproduktora Bang &amp; Olufsen Beosound A1 prin&#xe1;&#x161;a mnoho vylep&#x161;en&#xed;. N&#xe1;dhern&#xfd; dizajn ost&#xe1;va rovnak&#xfd;, av&#x161;ak disponuje dlh&#x161;ou v&#xfd;dr&#x17e;ou bat&#xe9;rie, ktor&#xe1; po novom vydr&#x17e;&#xed; na jedno nabitie a&#x17e; 18h. Taktie&#x17e; treba spomen&#xfa;&#x165; aj zv&#xfd;&#x161;en&#xfa; odolnos&#x165;, nako&#x13e;ko nov&#xfd; reproduktor prich&#xe1;dza s certifik&#xe1;ciou IPX7 a je odoln&#xfd; vo&#x10d;i vode a prachu. 
-
-Bang &amp; Olufsen Beosound A1 prich&#xe1;dza s integrovanou podporou hlasovej asistentky Amazon Alexa, prin&#xe1;&#x161;a aj modernej&#x161;ie pripojenie s Bluetooth 5.1 a taktie&#x17e; kvalitn&#xe9; Handsfree hovory, ktor&#xfd;m pom&#xe1;haj&#xfa; po novom a&#x17e; tri mikrof&#xf3;ny.</DESCRIPTION>
-            <PRICE_VAT>228.0</PRICE_VAT>
-            <CATEGORYTEXT>Heureka.sk | Elektronika | TV, audio, video | Reproduktory, soundbary | Bluetooth reproduktory</CATEGORYTEXT>
-            <MANUFACTURER>BANG & OLUFSEN</MANUFACTURER>
-            <URL>https://www.o2.sk/e-shop/-/produkt/bang-olufsen-beosound-a1-2nd-gen-sedy?preferredProgram=</URL>
-            <IMGURL>https://www.o2static.sk/media/products/7cf8a6a2-05d2-4a37-80ed-69ad5077953e/detail-image.jpeg</IMGURL>
             <ITEM_TYPE>new</ITEM_TYPE>
             
             <DELIVERY_DATE></DELIVERY_DATE>
@@ -1168,7 +1144,7 @@ Automatick&#xe1; synchroniz&#xe1;cia v&#x161;etk&#xfd;ch va&#x161;ich Galaxy zar
 U&#x17e;ite si 5G sie&#x165; bud&#xfa;cnosti a v&#xfd;kon bez kompromisov, s nov&#xfd;m Samsung Galaxy Tab S8.
 </DESCRIPTION>
             <PRICE_VAT>948.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Tablety a čítačky | Tablety</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Tablety a čítačky | Tablety</CATEGORYTEXT>
             <MANUFACTURER>SAMSUNG</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/samsung-galaxy-tab-s8-strieborny?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1020904/detail-image.jpeg</IMGURL>
@@ -1208,7 +1184,7 @@ Podpora 4G LTE siete v&#xe1;m umo&#x17e;n&#xed; s&#x165;ahova&#x165;, surfova&#x
 Apple iPad sa stane va&#x161;im neocenite&#x13e;n&#xfd;m spolo&#x10d;n&#xed;kom, v ka&#x17e;dej situ&#xe1;cii.
 </DESCRIPTION>
             <PRICE_VAT>804.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Tablety a čítačky | Tablety</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Tablety a čítačky | Tablety</CATEGORYTEXT>
             <MANUFACTURER>APPLE</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/apple-ipad-10-2-256gb-2021-grafitovo-siva?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1020458/detail-image.jpeg</IMGURL>
@@ -1238,7 +1214,7 @@ Bonus Lenovo
 
 Vydaren&#xfd; tablet, s vysok&#xfd;m v&#xfd;konom a skvelou v&#xfd;dr&#x17e;ou bat&#xe9;rie.    Lenovo Tab P11 Plus disponuje n&#xe1;dhern&#xfd;m 2K IPS displejom s jemn&#xfd;m rozl&#xed;&#x161;en&#xed;m, v&#x10f;aka ktor&#xe9;mu si vychutn&#xe1;te aj tie najmen&#x161;ie detaily prehliadan&#xe9;ho obsahu.    &#x160;tvorica reproduktorov s priestorovou zvukovou technol&#xf3;giou Dolby Atmos, v&#xe1;s naplno vtiahne do deja, nez&#xe1;le&#x17e;&#xed; &#x10d;i pozer&#xe1;te ob&#x13e;&#xfa;ben&#xfd; film, alebo hr&#xe1;te graficky dokonal&#xe9; hry. V&#xe1;&#x161; z&#xe1;&#x17e;itok bude v&#x17e;dy jedine&#x10d;n&#xfd;.    V&#xfd;konn&#xfd; osemjadrov&#xfd; procesor, spolu so 4GB opera&#x10d;nej pam&#xe4;te a 128GB &#xfa;lo&#x17e;n&#xfd;m priestorom poskytuj&#xfa; z&#xe1;klad pre komfortn&#xe9; pou&#x17e;&#xed;vanie. Prep&#xed;nanie medzi aplik&#xe1;ciami je bleskov&#xe9; a objemn&#xe9; &#xfa;lo&#x17e;isko poskytne dostatok miesta pre v&#x161;etky s&#xfa;bory.    13 Mpx zadn&#xfd; sn&#xed;ma&#x10d; a 8 Mpx predn&#xfd; selfie fotoapar&#xe1;t zachytia ka&#x17e;d&#xfd; okamih a postaraj&#xfa; sa o &#x10d;ist&#xe9; a kvalitn&#xe9; videohovory.    O celodenn&#xfa; v&#xfd;dr&#x17e; sa star&#xe1; ve&#x13e;k&#xe1;, 7700 mAh bat&#xe9;ria a v&#x10f;aka r&#xfd;chlemu nab&#xed;janiu s pr&#xed;konom a&#x17e; 20W, bude v&#xe1;&#x161; nov&#xfd; tablet pripraven&#xfd; k pou&#x17e;itiu behom p&#xe1;r min&#xfa;t.</DESCRIPTION>
             <PRICE_VAT>324.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Tablety a čítačky | Tablety</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Tablety a čítačky | Tablety</CATEGORYTEXT>
             <MANUFACTURER>LENOVO</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/lenovo-tab-p11-plus-sedy?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1021576/detail-image.jpeg</IMGURL>
@@ -1269,7 +1245,7 @@ Vydaren&#xfd; tablet, s vysok&#xfd;m v&#xfd;konom a skvelou v&#xfd;dr&#x17e;ou b
             <PRODUCT>Xiaomi Mi LCD Tablet na písanie 13,5"</PRODUCT>
             <DESCRIPTION>Pozn&#xe1;mkov&#xfd; tablet Xiaomi Mi LCD Writing Tablet v bielom preveden&#xed; v&#xe1;m umo&#x17e;n&#xed; pomocou pribalen&#xe9;ho stylusu zapisova&#x165; pozn&#xe1;mky, kresli&#x165; a zachyti&#x165; v&#x161;etky va&#x161;e n&#xe1;pady. V&#x10f;aka tenk&#xe9;mu dizajnu a n&#xed;zkej hmotnosti si ho zoberiete kamko&#x13e;vek. 13,5-palcov&#xfd; LCD displej poskytne dostatok priestoru pre v&#x161;etky va&#x161;e v&#xfd;tvory. Tablet disponuje tla&#x10d;idlom pre zmazanie a tla&#x10d;idlom pre uzamykanie obrazovky. Dotykov&#xe9; pero je mo&#x17e;n&#xe9; jednoducho magneticky prichyti&#x165; k boku zariadenia. Nap&#xe1;janie je zabezpe&#x10d;en&#xe9; vymenite&#x13e;nou bat&#xe9;riou.Hlavn&#xe9; vlastnosti: Prisp&#xf4;soben&#xfd; materi&#xe1;l LCD umo&#x17e;&#x148;uje p&#xed;sanie rukou prirodzene a jasneTablet pou&#x17e;&#xed;va prisp&#xf4;soben&#xfd; materi&#xe1;l LCD, tak&#x17e;e modrozelen&#xfd; rukopis je ve&#x13e;mi jasn&#xfd;, odv&#xe1;&#x17e;ny a jemn&#xfd; z&#xe1;rove&#x148;.Aj samotn&#xe1; doska napom&#xe1;ha pocitu plynul&#xe9;ho a prirodzen&#xe9;ho p&#xed;sania.Vysoko citliv&#xe1; technol&#xf3;gia sn&#xed;mania tlaku prisp&#xf4;sob&#xed; p&#xed;smo va&#x161;im aktu&#xe1;lnym pocitom a potreb&#xe1;m.Pou&#x17e;&#xed;vanie vysoko citliv&#xe9;ho sn&#xed;mania tlaku a prisp&#xf4;soben&#xe1; obrazovka LCD, umo&#x17e;&#x148;uj&#xfa; vykreslenie p&#xed;sma r&#xf4;znej v&#xfd;raznosti.Obrazovka umo&#x17e;&#x148;uje pou&#x17e;&#xed;vanie prstov alebo in&#xfd;ch predmetov na bezodkladn&#xe9; p&#xed;sanie. Indik&#xe1;tor v&#xe1;m sp&#xed;jemn&#xed; z&#xe1;&#x17e;itok pri p&#xed;san&#xed;.Jedno jasn&#xe9; tla&#x10d;idlo na vymazanie v&#x161;etk&#xfd;ch vec&#xed;.Obrazovku m&#xf4;&#x17e;ete jednoducho vy&#x10d;isti&#x165; jednoduch&#xfd;m sp&#xf4;sobom, stla&#x10d;en&#xed;m tla&#x10d;idla.&#x17d;iadne &#x17e;iarenie a nebezpe&#x10d;enstvo pre detiTablet nem&#xe1; &#x17e;iadny modr&#xfd; l&#xfa;&#x10d;, neblik&#xe1;, odr&#xe1;&#x17e;a prirodzen&#xe9; svetlo.&#xda;plne bez atramentu a chemick&#xfd;ch pigmentov, ne&#x161;kodn&#xfd; pre o&#x10d;i a poko&#x17e;kuMagnetick&#xfd; stylus pre jemn&#xe9; pou&#x17e;itie a &#x13e;ahk&#xe9; skladovanie&#x13d;ahk&#xe9; magnetick&#xe9; pero (iba 7 g)Vychutnajte si namiesto tradi&#x10d;n&#xe9; up&#xed;nanie.Zamykac&#xed; sp&#xed;na&#x10d;Zapnite z&#xe1;mok, aby ste nestratili d&#xf4;le&#x17e;it&#xfd; obsah.Dlh&#xe1; v&#xfd;dr&#x17e; bat&#xe9;rieAk obrazovku vyma&#x17e;ete ka&#x17e;d&#xfd; de&#x148; stokr&#xe1;t, v&#xfd;dr&#x17e; bat&#xe9;rie dosiahne a&#x17e; 1 rok.</DESCRIPTION>
             <PRICE_VAT>24.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Tablety a čítačky | Tablety</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Tablety a čítačky | Tablety</CATEGORYTEXT>
             <MANUFACTURER>XIAOMI</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/xiaomi-mi-lcd-tablet-na-pisanie?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1017055/detail-image.png</IMGURL>
@@ -1293,7 +1269,7 @@ Bonus Lenovo
 
 Maxim&#xe1;lny v&#xfd;kon si u&#x17e;ijete s tabletom Lenovo Tab P12 Pro. Ve&#x13e;k&#xfd; AMOLED displej s 2K rozl&#xed;&#x161;en&#xed;m a dokonal&#xfd;m podan&#xed;m farieb m&#xe1; uhloprie&#x10d;ku 12,6&quot; a obnovovaciu frekvenciu 120 Hz. Nech&#xfd;ba ani podpora Dolby Vision, ktor&#xe1; sa postar&#xe1; o dokonal&#xe9; vtiahnutie do deja. Vysok&#xfd; jas 600 nitov zabezpe&#x10d;&#xed; vynikaj&#xfa;cu &#x10d;itate&#x13e;nos&#x165; aj na priamom slnku.  Tablet sa spolieha na v&#xfd;konn&#xfd; osemjadrov&#xfd; procesor Qualcomm Snapdragon 870. Hravo na &#x148;om zvl&#xe1;dnete &#x10d;oko&#x13e;vek. V&#x10f;aka v&#xfd;konn&#xe9;mu grafick&#xe9;mu &#x10d;ipu Adreno 650 si zahr&#xe1;te najnov&#x161;ie graficky vyspel&#xe9; hry.  Lenovo Tab P12 Pro m&#xf4;&#x17e;ete vzia&#x165; so sebou naozaj kdeko&#x13e;vek. Neuverite&#x13e;ne &#x13e;ahk&#xe1; hlin&#xed;kov&#xe1; kon&#x161;trukcia poskytuje vynikaj&#xfa;ci komfot a siln&#xfa; v&#xfd;dr&#x17e;.   Bat&#xe9;ria s kapacitou 10 200 mAh poskytuje kapacitu a&#x17e; viac ako 15 hod&#xed;n. Podpora &#x161;tandardu Quick Charge 4.0 sa postar&#xe1; o dobitie 80 % kapacity za nie&#x10d;o viac ako hodinu. V&#xfd;bornou spr&#xe1;vou je aj podpora bezdr&#xf4;tov&#xe9;ho nab&#xed;jania.</DESCRIPTION>
             <PRICE_VAT>1008.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Tablety a čítačky | Tablety</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Tablety a čítačky | Tablety</CATEGORYTEXT>
             <MANUFACTURER>LENOVO</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/lenovo-tab-p12-pro-5g-sedy?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1021327/detail-image.jpeg</IMGURL>
@@ -1327,7 +1303,7 @@ Nov&#xfd; iPad Air 2022 prin&#xe1;&#x161;a 10,9&quot; Liquid Retina displej s vy
 
 Novinkou je taktie&#x17e; nov&#xe1; predn&#xe1; kamera s rozl&#xed;&#x161;en&#xed;m 12 Mpx. Ide o &#x161;irokouhl&#xfa; kameru so z&#xe1;berom a&#x17e; 122 stup&#x148;ov a taktie&#x17e; s novou funkciou centrovania z&#xe1;beru. Samozrejmos&#x165;ou je aj TouchID tla&#x10d;idlo, ktor&#xe9; z&#xe1;rove&#x148; sl&#xfa;&#x17e;i ako sn&#xed;ma&#x10d; odtla&#x10d;kov prsta. Novinka dost&#xe1;va podporu 5G siete, pre najr&#xfd;chlej&#x161;ie s&#x165;ahovanie, prehliadanie a streamovanie digit&#xe1;lneho obsahu.</DESCRIPTION>
             <PRICE_VAT>972.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Tablety a čítačky | Tablety</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Tablety a čítačky | Tablety</CATEGORYTEXT>
             <MANUFACTURER>APPLE</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/apple-ipad-air-10-9-64gb-2022-sedy?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/070d30e0-4fbc-411e-9054-c4ad2034ce07/detail-image.jpeg</IMGURL>
@@ -1361,7 +1337,7 @@ Nov&#xfd; iPad Air 2022 prin&#xe1;&#x161;a 10,9&quot; Liquid Retina displej s vy
 
 Novinkou je taktie&#x17e; nov&#xe1; predn&#xe1; kamera s rozl&#xed;&#x161;en&#xed;m 12 Mpx. Ide o &#x161;irokouhl&#xfa; kameru so z&#xe1;berom a&#x17e; 122 stup&#x148;ov a taktie&#x17e; s novou funkciou centrovania z&#xe1;beru. Samozrejmos&#x165;ou je aj TouchID tla&#x10d;idlo, ktor&#xe9; z&#xe1;rove&#x148; sl&#xfa;&#x17e;i ako sn&#xed;ma&#x10d; odtla&#x10d;kov prsta. Novinka dost&#xe1;va podporu 5G siete, pre najr&#xfd;chlej&#x161;ie s&#x165;ahovanie, prehliadanie a streamovanie digit&#xe1;lneho obsahu.</DESCRIPTION>
             <PRICE_VAT>972.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Tablety a čítačky | Tablety</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Tablety a čítačky | Tablety</CATEGORYTEXT>
             <MANUFACTURER>APPLE</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/apple-ipad-air-10-9-64gb-2022-biely?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/c1de6bf5-3965-429e-89b1-9a97d5e8826b/detail-image.jpeg</IMGURL>
@@ -1395,7 +1371,7 @@ Bonus Lenovo
 
 Nov&#xfd; tablet Lenovo P11 5G pon&#xfa;ka vysok&#xfd; v&#xfd;kon a pr&#xe9;miov&#xe9; zobrazenie a zvukov&#xe9; podanie. Ve&#x13e;k&#xfd; 11 palcov&#xfd; displej pon&#xfa;ka 2K rozl&#xed;&#x161;enie s vynikaj&#xfa;cimi, pln&#xfd;mi farbami.Re&#x17e;im Eye Care s certifik&#xe1;tom TUV, spo&#x13e;ahlivo chr&#xe1;ni va&#x161;e o&#x10d;i a zni&#x17e;uje mno&#x17e;stvo &#x161;kodliv&#xe9;ho modr&#xe9;ho svetla.Tablet je osaden&#xfd; v&#xfd;konn&#xfd;m procesorom osmejadrov&#xfd;m Qualcomm a 4GB opera&#x10d;nej pam&#xe4;te, tak&#x17e;e sa nebude zasek&#xe1;va&#x165; ani pri tom najn&#xe1;ro&#x10d;nej&#x161;om pou&#x17e;it&#xed;. zahr&#xe1;te si najnov&#x161;ie hry, pozriete filmy v mimoriadnej kvalite a u&#x17e;ijete bleskov&#xe9; prep&#xed;nanie aplik&#xe1;cii. &#x160;tvorica reproduktorov s podporou technol&#xf3;gie Dolby Atmos poskytne unik&#xe1;tny priestorov&#xfd; zvukov&#xfd; z&#xe1;&#x17e;itok.Fotoapar&#xe1;ty s rozl&#xed;&#x161;en&#xed;m 8 Mpx (predn&#xe1; kamera) a 13 Mpx dokonale zachytia ka&#x17e;d&#xfa; scen&#xe9;riu a poskytn&#xfa; &#x10d;ist&#xe9; a kvalitn&#xe9; videohovory. V&#x10f;aka podpore akt&#xed;vneho stylusu m&#xf4;&#x17e;ete vytv&#xe1;ra&#x165; umeleck&#xe9; diela, alebo si p&#xed;sa&#x165; pozn&#xe1;mky. Kapacita bat&#xe9;rie, a&#x17e; 7700 mAh poskytne viac ako 15 hod&#xed;n v&#xfd;dr&#x17e;e, v&#xe1;&#x161; nov&#xfd; tablet si tak so sebou m&#xf4;&#x17e;ete vzia&#x165; na ka&#x17e;d&#xfd; v&#xfd;let, alebo pracovn&#xfa; cestu.</DESCRIPTION>
             <PRICE_VAT>480.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Tablety a čítačky | Tablety</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Tablety a čítačky | Tablety</CATEGORYTEXT>
             <MANUFACTURER>LENOVO</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/lenovo-tab-p11-5g-sedy?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1021082/detail-image.jpeg</IMGURL>
@@ -1435,7 +1411,7 @@ Podpora 4G LTE  siete v&#xe1;m umo&#x17e;n&#xed; s&#x165;ahova&#x165;, surfova&#
 Apple iPad sa stane va&#x161;im neocenite&#x13e;n&#xfd;m spolo&#x10d;n&#xed;kom , v ka&#x17e;dej situ&#xe1;cii.
 </DESCRIPTION>
             <PRICE_VAT>600.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Tablety a čítačky | Tablety</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Tablety a čítačky | Tablety</CATEGORYTEXT>
             <MANUFACTURER>APPLE</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/apple-ipad-10-2-64GB-2021-grafitovo-siva?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1019643/detail-image.jpeg</IMGURL>
@@ -1462,7 +1438,7 @@ Apple iPad sa stane va&#x161;im neocenite&#x13e;n&#xfd;m spolo&#x10d;n&#xed;kom 
             <PRODUCT>Lenovo Tab M8</PRODUCT>
             <DESCRIPTION>Vychutn&#xe1;vajte si va&#x161;e ob&#x13e;&#xfa;ben&#xe9; vide&#xe1;. Tablet M8 pon&#xfa;ka 8&quot; displej s rozl&#xed;&#x161;en&#xed;m HD a tak si m&#xf4;&#x17e;ete by&#x165; ist&#xed;, &#x17e;e zachyt&#xed;te ka&#x17e;d&#xfd; detail, od ak&#x10d;n&#xfd;ch sc&#xe9;n vo filme a&#x17e; po rodinn&#xe9; fotografie v albume. A po ruku ho m&#xf4;&#x17e;ete ma&#x165; skuto&#x10d;ne hocikedy. S hr&#xfa;bkou len 8,15 mm a hmotnos&#x165;ou iba 305 g sa tablet Lenovo M8 &#x13e;ahko pren&#xe1;&#x161;a a bez probl&#xe9;mu ho viete ulo&#x17e;i&#x165; do va&#x161;ej ta&#x161;ky. M&#xf4;&#x17e;ete si ho vzia&#x165; kamko&#x13e;vek a nebudete v&#xe1;s spoma&#x13e;ova&#x165;. Naopak, bude pre v&#xe1;s skvel&#xfd;m spolo&#x10d;n&#xed;kom pre v&#x161;etky chv&#xed;le. Na tomto tablete v&#xe1;s ohrom&#xed; aj zvuk. &#x10c;i u&#x17e; budete po&#x10d;&#xfa;va&#x165; hudbu, sledova&#x165; filmy a &#x10f;al&#x161;ie vide&#xe1;. Na tom nez&#xe1;le&#x17e;&#xed;. Istotou je ale kvalitn&#xfd; zvuk a to v&#x10f;aka dvom predn&#xfd;m reproduktorom. Nech&#xfd;ba ani podpora technol&#xf3;gie Dolby Audio, v&#x10f;aka ktorej si vychutn&#xe1;te vynikaj&#xfa;ci zvuk, nech u&#x17e; ste kdeko&#x13e;vek. So &#x161;tvorjadrov&#xfd;m procesorom a a&#x17e; 18 hodinovou v&#xfd;dr&#x17e;ou bat&#xe9;rie si m&#xf4;&#x17e;ete na tomto tablete u&#x17e;&#xed;va&#x165; ob&#x13e;&#xfa;ben&#xe9; aplik&#xe1;cie z Google Play Store po cel&#xfd; de&#x148;.</DESCRIPTION>
             <PRICE_VAT>144.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Tablety a čítačky | Tablety</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Tablety a čítačky | Tablety</CATEGORYTEXT>
             <MANUFACTURER>LENOVO</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/lenovo-tab-m8-sedy?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1015927/detail-image.png</IMGURL>
@@ -1493,7 +1469,7 @@ Apple iPad sa stane va&#x161;im neocenite&#x13e;n&#xfd;m spolo&#x10d;n&#xed;kom 
             <PRODUCT>Lenovo TAB M10 Plus</PRODUCT>
             <DESCRIPTION>Ob&#x13e;uben&#xfd; Lenovo Tab M10 Plus prich&#xe1;dza v novej gener&#xe1;cii. Ide o v&#xfd;konn&#xfd; tablet s ve&#x13e;k&#xfd;m 10 placov&#xfd;m diplejom, ktor&#xfd; v&#xe1;s pote&#x161;&#xed; mimoriadne jemn&#xfd;m rozl&#xed;&#x161;en&#xed;m a ochranou o&#x10d;&#xed;, v&#x10f;aka filtru modr&#xe9;ho svetla. Lenovo Tab M10 Plus disponuje osemjadrov&#xfd;m procesorom a 4 GB opera&#x10d;nej pam&#xe4;te. Nech&#xfd;ba tak dostatok v&#xfd;konu pre nov&#xe9; mobiln&#xe9; hry, pozeranie vide&#xed; v Full HD kvalite, alebo r&#xfd;chle prep&#xed;nanie medzi aplik&#xe1;ciami. Tablet m&#xe1; integrovan&#xe9; du&#xe1;lne predn&#xe9; reproduktory s technol&#xf3;giou Dolby Atmos, ktor&#xe9; prin&#xe1;&#x161;aj&#xfa; kri&#x161;t&#xe1;&#x13e;ovo &#x10d;ist&#xfd; zvuk, navy&#x161;e s priestorov&#xfd;mi efektami.Podpora viacer&#xfd;ch pou&#x17e;&#xed;vate&#x13e;sk&#xfd;ch &#xfa;&#x10d;tov dovo&#x13e;uje ka&#x17e;d&#xe9;mu pou&#x17e;&#xed;vate&#x13e;ovi prisp&#xf4;sobi&#x165; si obsah tabletu presne pre neho. Navy&#x161;e je  vybaven&#xfd; detsk&#xfd;m re&#x17e;imom, ktor&#xfd; disponuje obsahom, prisp&#xf4;soben&#xfd;m pre deti. Z&#xe1;bavu kedyko&#x13e;vek, budete ma&#x165; zaru&#x10d;en&#xfa; v&#x10f;aka silnej 5000 mAh bat&#xe9;rii, ktor&#xe1; poskytne celodenn&#xfa; v&#xfd;dr&#x17e;.</DESCRIPTION>
             <PRICE_VAT>204.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Tablety a čítačky | Tablety</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Tablety a čítačky | Tablety</CATEGORYTEXT>
             <MANUFACTURER>LENOVO</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/lenovo-tab-m10-plus-sedy-2gen?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1021085/detail-image.jpeg</IMGURL>
@@ -1527,7 +1503,7 @@ Nov&#xfd; iPad Air 2022 prin&#xe1;&#x161;a 10,9&quot; Liquid Retina displej s vy
 
 Novinkou je taktie&#x17e; nov&#xe1; predn&#xe1; kamera s rozl&#xed;&#x161;en&#xed;m 12 Mpx. Ide o &#x161;irokouhl&#xfa; kameru so z&#xe1;berom a&#x17e; 122 stup&#x148;ov a taktie&#x17e; s novou funkciou centrovania z&#xe1;beru. Samozrejmos&#x165;ou je aj TouchID tla&#x10d;idlo, ktor&#xe9; z&#xe1;rove&#x148; sl&#xfa;&#x17e;i ako sn&#xed;ma&#x10d; odtla&#x10d;kov prsta. Novinka dost&#xe1;va podporu 5G siete, pre najr&#xfd;chlej&#x161;ie s&#x165;ahovanie, prehliadanie a streamovanie digit&#xe1;lneho obsahu.</DESCRIPTION>
             <PRICE_VAT>972.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Tablety a čítačky | Tablety</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Tablety a čítačky | Tablety</CATEGORYTEXT>
             <MANUFACTURER>APPLE</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/apple-ipad-air-10-9-64gb-2022-fialovy?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/9489a668-45f4-4002-be98-e7b5e15af84a/detail-image.jpeg</IMGURL>
@@ -1558,7 +1534,7 @@ Novinkou je taktie&#x17e; nov&#xe1; predn&#xe1; kamera s rozl&#xed;&#x161;en&#xe
             <PRODUCT>Apple iPad Air 10,9" 256GB 2022</PRODUCT>
             <DESCRIPTION>Najnov&#x161;ia gener&#xe1;cia Apple iPad Air je t&#xfd;m najlep&#x161;&#xed;m &#x10d;o na trhu n&#xe1;jdete. Ak h&#x13e;ad&#xe1;te tablet s vysok&#xfd;m v&#xfd;konom, n&#xe1;dhern&#xfd;m displejom &#x10d;i pokro&#x10d;il&#xfd;m fotoapar&#xe1;tom tak ste na spr&#xe1;vnom mieste.Nov&#xfd; iPad Air 2022 V&#xe1;m pr&#xed;n&#xe1;&#x161;a 10,9&quot; Liquid Retina displej s vysok&#xfd;m rozl&#xed;&#x161;en&#xed;m a&#x17e; 2360 x 1640 pixelov. Najv&#xe4;&#x10d;&#x161;ou novinkou je v&#x161;ak u&#x17e; ve&#x13e;mi dobre zn&#xe1;my revolu&#x10d;n&#xfd; &#x10d;ip od Apple s n&#xe1;zvom M1, ktor&#xfd; prin&#xe1;&#x161;a obrovsk&#xfd; v&#xfd;kon aj pre t&#xfd;ch najn&#xe1;ro&#x10d;nej&#x161;&#xed;ch, a teda nov&#xfd; iPad m&#xf4;&#x17e;ete bez probl&#xe9;mov porovna&#x165; aj s v&#xfd;konnej&#x161;&#xed;mi po&#x10d;&#xed;ta&#x10d;mi. Osem jadrov&#xfd; procesor v kombin&#xe1;ci&#xed; s 8 GB opera&#x10d;nou pam&#xe4;&#x165;ou V&#xe1;s ur&#x10d;ite nesklame. Te&#x161;i&#x165; sa teda m&#xf4;&#x17e;ete na neuverite&#x13e;n&#xfd; v&#xfd;kon v kompaktnom zariaden&#xed;.Novinkou je taktie&#x17e; nov&#xe1; predn&#xe1; kamera s rozl&#xed;&#x161;en&#xed;m 12 Mpx. Ide o &#x161;irokouhl&#xfa; kameru so z&#xe1;berom a&#x17e; 122 stup&#x148;ov a taktie&#x17e; s novou funkciou centrovania z&#xe1;beru. Samozrejmos&#x165;ou je aj tla&#x10d;idlo na zap&#xed;nanie, ktor&#xe9; z&#xe1;rove&#x148; sl&#xfa;&#x17e;i ako sn&#xed;ma&#x10d; odtla&#x10d;kov prsta na odomknutie iPadu. </DESCRIPTION>
             <PRICE_VAT>1164.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Tablety a čítačky | Tablety</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Tablety a čítačky | Tablety</CATEGORYTEXT>
             <MANUFACTURER>APPLE</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/apple-ipad-air-10-9-256gb-2022-sedy?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/97e4eab1-50c6-4620-bccf-abf776f7b8fd/detail-image.jpeg</IMGURL>
@@ -1601,7 +1577,7 @@ Funkcia viacer&#xfd;ch okien efekt&#xed;vne &#x161;etr&#xed; v&#xe1;&#x161; &#x1
 Tablet obsahuje aj funkciu Samsung Kids, ktor&#xe1; pon&#xfa;ka mno&#x17e;stvo z&#xe1;bavn&#xfd;ch a vzdel&#xe1;vac&#xed;ch hier. S pomocou rodi&#x10d;ovsk&#xe9;ho z&#xe1;mku m&#xf4;&#x17e;ete presne vybra&#x165; aplik&#xe1;cie, ku ktor&#xfd;m bud&#xfa; ma&#x165; va&#x161;e deti pr&#xed;stup, alebo nastavi&#x165; denn&#xfd; limit pou&#x17e;&#xed;vania tabletu.
 </DESCRIPTION>
             <PRICE_VAT>300.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Tablety a čítačky | Tablety</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Tablety a čítačky | Tablety</CATEGORYTEXT>
             <MANUFACTURER>SAMSUNG</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/samsung-galaxy-tab-a8-sedy?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1020459/detail-image.jpeg</IMGURL>
@@ -2091,7 +2067,7 @@ K plnohodnotn&#xe9;mu fungovaniu hodiniek je potrebn&#xe9; do pr&#xed;stroja vlo
             <PRODUCT></PRODUCT>
             <DESCRIPTION></DESCRIPTION>
             <PRICE_VAT>170.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>SAMSUNG</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/hodinky-sam-gal-gearfit2-modre?preferredProgram=</URL>
             
@@ -2123,7 +2099,7 @@ Pridanou hodnotou je aj adapt&#xe9;r v balen&#xed;, Huawei nova 9 SE podporuje a
 Nech&#xfd;ba ani NFC technol&#xf3;gia pre mobiln&#xe9; platby, alebo mimoriadne presn&#xfd; senzor odtla&#x10d;kov prstov.
 </DESCRIPTION>
             <PRICE_VAT>288.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>HUAWEI</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/huawei-nova-9-se-modry?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1021111/detail-image.jpeg</IMGURL>
@@ -2160,7 +2136,7 @@ Fotoapar&#xe1;t rad&#xed;me na popredn&#xfa; prie&#x10d;ku. S hlavn&#xfd;m 64 me
 
 Telef&#xf3;n je ide&#xe1;lny pre milovn&#xed;kov fotenia. Nezav&#xe1;ha v &#x17e;iadnej situ&#xe1;cii. &#x10c;i u&#x17e; chcete vytvori&#x165; kvalitn&#xfa; no&#x10d;n&#xfa; sn&#xed;mku alebo podmaniv&#xfd; portr&#xe9;t. Ak nechcete telef&#xf3;n nab&#xed;ja&#x165; ka&#x17e;d&#xfd; de&#x148; tak je pre v&#xe1;s jasn&#xfd;m favoritom. Pr&#xe9;miov&#xfd; displej ktor&#xfd;mi sa Samsung p&#xfd;&#x161;i dlh&#xe9; roky je &#x10d;ere&#x161;ni&#x10d;kou na torte. </DESCRIPTION>
             <PRICE_VAT>276.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>SAMSUNG</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/samsung-galaxy-a52-5g-biely?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1017869/detail-image.jpeg</IMGURL>
@@ -2197,7 +2173,7 @@ Skvel&#xfd; dizajn a vysok&#xfd; v&#xfd;kon spojen&#xfd; so super r&#xfd;chlym n
 
 </DESCRIPTION>
             <PRICE_VAT>408.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>REALME</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/realme-gt-master-edition-5g-cierny?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1019363/detail-image.jpeg</IMGURL>
@@ -2228,7 +2204,7 @@ Skvel&#xfd; dizajn a vysok&#xfd; v&#xfd;kon spojen&#xfd; so super r&#xfd;chlym n
             <PRODUCT>Alcatel 3082 4G</PRODUCT>
             <DESCRIPTION>Elegantn&#xfd; vykl&#xe1;pac&#xed; telef&#xf3;n Alcatel 3082 pon&#xfa;ka spo&#x13e;ahlivos&#x165; a vynikaj&#xfa;cu v&#xfd;dr&#x17e; bat&#xe9;rie.  Opera&#x10d;n&#xfd; syst&#xe9;m poskytuje jednoduch&#xe9; ovl&#xe1;danie. S ve&#x13e;k&#xfd;m 2,4 palcov&#xfd;m displejom &#x13e;ahko zad&#xe1;te telef&#xf3;nne &#x10d;&#xed;slo, alebo nap&#xed;&#x161;ete SMS.  Telef&#xf3;n disponuje 1,3 zadn&#xfd;m Mpx fotoapar&#xe1;tom s bleskom a mo&#x17e;nos&#x165;ou nat&#xe1;&#x10d;ania videa. Nech&#xfd;ba ani podpora SD karty do ve&#x13e;kosti 32 GB. Z &#x10f;al&#x161;&#xed;ch funkci&#xed; tu n&#xe1;jdete bud&#xed;k, kalkula&#x10d;ku, alebo FM r&#xe1;dio.  Alcatel 3082 v&#xe1;&#x17e;i len 109 gramov a kompaktn&#xe9; rozmery v&#xe1;m umo&#x17e;nia ma&#x165; svoj telef&#xf3;n kedyko&#x13e;vek po ruke.</DESCRIPTION>
             <PRICE_VAT>72.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>ALCATEL</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/alcatel-3082-4g-sedy?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1020578/detail-image.jpeg</IMGURL>
@@ -2269,7 +2245,7 @@ Skvel&#xfd; dizajn a vysok&#xfd; v&#xfd;kon spojen&#xfd; so super r&#xfd;chlym n
 
 </DESCRIPTION>
             <PRICE_VAT>144.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>OPPO</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/oppo-reno7-lite-5g-cierny?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1021193/detail-image.jpeg</IMGURL>
@@ -2300,7 +2276,7 @@ Skvel&#xfd; dizajn a vysok&#xfd; v&#xfd;kon spojen&#xfd; so super r&#xfd;chlym n
             <PRODUCT>OnePlus Nord CE 2 5G 8GB/128GB modrá</PRODUCT>
             <DESCRIPTION>Vynikaj&#xfa;co vybaven&#xfd; smartf&#xf3;n OnePlus Nord CE 2 5G pon&#xfa;ka kvalitn&#xfd; AMOLED displej s vynikaj&#xfa;cim kontrastom, siln&#xfd;m jasom a 90 Hz obnovovacou frekvenciou obrazu. Ur&#x10d;ite vyu&#x17e;ijete aj funkciu Always On, kedy displej zobraz&#xed; v&#x161;etky potrebn&#xe9; inform&#xe1;cie bez zap&#xed;nania a straty bat&#xe9;rie.  V&#xfd;kon zabezpe&#x10d;uje osemjadrov&#xfd; procesor MediaTek MT6877, vyr&#xe1;ban&#xfd; 6nm technol&#xf3;giou. Opa&#x10d;n&#xe1; pam&#xe4;&#x165; dosahuje 8GB, &#x10d;o je naozaj vynikaj&#xfa;ca hodnota, spolu so 128GB &#xfa;lo&#x17e;n&#xfd;m priestorom, vyhovie OnePlus Nord CE2 5G v&#x161;etk&#xfd;m va&#x161;im po&#x17e;iadavk&#xe1;m.  Na zadnej strane n&#xe1;jdete tri sn&#xed;ma&#x10d;e, hlavn&#xfd; 64 Mpx so stabiliz&#xe1;ciou EIS, dop&#x13a;&#x148;a dvojica ultra &#x161;irokouhl&#xe9;ho a makro fotoapar&#xe1;tu. Zvl&#xe1;dnete tak foti&#x165; v uhle a&#x17e; 119&#xb0; a zachyt&#xed;te aj tie najjemnej&#x161;ie detaily.  Bat&#xe9;ria s kapacitou 4 500 mAh v&#xe1;m zaist&#xed; dlhotrvaj&#xfa;cu v&#xfd;dr&#x17e; bez obmedzen&#xed;. S r&#xfd;chlonab&#xed;jan&#xed;m pomocou 65W adapt&#xe9;ra je doplnenie energie z&#xe1;le&#x17e;itos&#x165;ou nieko&#x13e;k&#xfd;ch min&#xfa;t.  Nech&#xfd;ba ani NFC technol&#xf3;gia pre mobiln&#xe9; platby, alebo mo&#x17e;nos&#x165; vyu&#x17e;itia dvoch SIM kariet spolu s pam&#xe4;&#x165;ovou kartou.</DESCRIPTION>
             <PRICE_VAT>384.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>ONEPLUS</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/oneplus-nord-ce-2-5g-modry?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/d1f73daf-c7bc-408f-8bd1-3d60d48da139/detail-image.jpeg</IMGURL>
@@ -2342,7 +2318,7 @@ Senzor TrueDepth sa zmen&#x161;il, pri&#x10d;om st&#xe1;le obsahuje rovnak&#xe9;
 iPhone 13 mini prich&#xe1;dza spolu s nov&#xfd;m, vylep&#x161;en&#xfd;m opera&#x10d;n&#xfd;m syst&#xe9;mom iOS 15.
 </DESCRIPTION>
             <PRICE_VAT>792.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>APPLE</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/apple-iphone-13-mini-128gb-cierny?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1019419/detail-image.jpeg</IMGURL>
@@ -2395,7 +2371,7 @@ V&#xfd;kon, na ktor&#xfd; sa m&#xf4;&#x17e;e&#x161; spo&#x13e;ahn&#xfa;&#x165;
 	
 </DESCRIPTION>
             <PRICE_VAT>564.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>APPLE</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/apple-iphone-11-128gb-2020-cierny?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1018221/detail-image.png</IMGURL>
@@ -2441,7 +2417,7 @@ V&#xfd;dr&#x17e; bat&#xe9;rie dosahuje vynikaj&#xfa;ce hodnoty v kombin&#xe1;cii
 Vychutnajte si nov&#xfd; level v&#xfd;konu v p&#xf4;sobivom kompaktnom dizajne.
 </DESCRIPTION>
             <PRICE_VAT>672.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>SAMSUNG</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/samsung-galaxy-s21-fe-5g-zeleny?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1020414/detail-image.jpeg</IMGURL>
@@ -2472,7 +2448,7 @@ Vychutnajte si nov&#xfd; level v&#xfd;konu v p&#xf4;sobivom kompaktnom dizajne.
             <PRODUCT>Apple iPhone 13 4GB/128GB červená</PRODUCT>
             <DESCRIPTION>Najnov&#x161;&#xed; iPhone 13 prin&#xe1;&#x161;a monument&#xe1;lny v&#xfd;kon &#x10d;ipu A15 Bionic. Najv&#xfd;konnej&#x161;ieho mobiln&#xe9;ho procesoru s&#xfa;&#x10d;asnosti.  Novinka pon&#xfa;ka vynikaj&#xfa;ci 6,1 palcov&#xfd; Super Retina XDR displej. Pou&#x17e;it&#xe1; OLED technol&#xf3;gia umo&#x17e;nila perfektn&#xe9; kontrastn&#xe9; zobrazenie, prvotriedny obraz, n&#xe1;rast svietivosti a efekt&#xed;vne &#x161;etrenie bat&#xe9;rie.  V&#xfd;dr&#x17e; bat&#xe9;rie v porovnan&#xed; s predch&#xe1;dzaj&#xfa;cou gener&#xe1;ciou nar&#xe1;stla a&#x17e; o 2,5 hodiny. iPhone 13 disponuje technol&#xf3;giou bezdr&#xf4;tov&#xe9;ho nab&#xed;jania MagSafe. Vylep&#x161;en&#xfd; fotoapar&#xe1;t a holywoodsky video re&#x17e;im  Vylep&#x161;enia rozhodne neobi&#x161;li ani fotoapar&#xe1;t, na zadnej strane n&#xe1;jdete &#x161;irokouhl&#xfd; a ultra&#x161;irokouhl&#xfd; objekt&#xed;v, ktor&#xe9; s&#xfa; vo&#x10d;i sebe ulo&#x17e;en&#xe9; v 45-stup&#x148;ovom uhle. Nov&#xfd; &#x161;irokouhl&#xfd; fotoapar&#xe1;t je dod&#xe1;van&#xfd; s najv&#xe4;&#x10d;&#x161;&#xed;m sn&#xed;ma&#x10d;om, ak&#xfd; bol doposia&#x13e; v iPhone s dvomi kamerami pou&#x17e;it&#xfd;, pri&#x10d;om je schopn&#xfd; zachyti&#x165; a&#x17e; o 47 percent viac svetla ako predo&#x161;l&#xe1; gener&#xe1;cia.  Novinkou je Cinematic mode, ide &#x161;peci&#xe1;lny video re&#x17e;im, ktor&#xfd; v&#xe1;m umo&#x17e;n&#xed; preostrova&#x165; v r&#xe1;mci jedn&#xe9;ho video z&#xe1;beru, presne tak, ako to pozn&#xe1;te z hollywoodskych filmov. Cinematic mode viete navy&#x161;e vyu&#x17e;i&#x165; so v&#x161;etk&#xfd;mi fotoapar&#xe1;tmi na iPhone. Vynikaj&#xfa;ce v&#xfd;sledky pri no&#x10d;nom foten&#xed;, dosiahnete s nov&#xfd;m prepracovan&#xfd;m no&#x10d;n&#xfd;m re&#x17e;imom, novinkou s&#xfa; aj fotografick&#xe9; &#x161;t&#xfd;ly.Mimoriadna bezpe&#x10d;nos&#x165; a odolnos&#x165; Senzor TrueDepth sa zmen&#x161;il, pri&#x10d;om st&#xe1;le obsahuje rovnak&#xe9; prelomov&#xe9; technol&#xf3;gie Face ID, najbezpe&#x10d;nej&#x161;ej autentifik&#xe1;cie tv&#xe1;re, v smartf&#xf3;ne.  iPhone 13 navy&#x161;e pon&#xfa;ka odolnos&#x165; vo&#x10d;i vode a prachu v &#x161;tandarde IP68. Nech&#xfd;ba ani podpora 5G siete, pre najr&#xfd;chlej&#x161;ie prehliadanie, streamovanie a s&#x165;ahovanie obsahu. iPhone 13 prich&#xe1;dza spolu s nov&#xfd;m, vylep&#x161;en&#xfd;m opera&#x10d;n&#xfd;m syst&#xe9;mom iOS 15.</DESCRIPTION>
             <PRICE_VAT>492.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>APPLE</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/apple-iphone-13-128gb-cerveny?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1019457/detail-image.jpeg</IMGURL>
@@ -2517,7 +2493,7 @@ Vychutnajte si nov&#xfd; level v&#xfd;konu v p&#xf4;sobivom kompaktnom dizajne.
 
 </DESCRIPTION>
             <PRICE_VAT>216.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>OPPO</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/oppo-reno-7-5g-cierny?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1021159/detail-image.jpeg</IMGURL>
@@ -2548,7 +2524,7 @@ Vychutnajte si nov&#xfd; level v&#xfd;konu v p&#xf4;sobivom kompaktnom dizajne.
             <PRODUCT>iPhone SE (2022) 4GB/256GB biela</PRODUCT>
             <DESCRIPTION>Ohrom&#xed; v&#xe1;s r&#xfd;chlos&#x165;ou, nadchne cenou.    Tretia gener&#xe1;cie iPhonu SE ost&#xe1;va vern&#xe1; svojmu charakteristick&#xe9;mu kompaktn&#xe9;mu dizajnu. Podstatn&#xe9; vylep&#x161;enia prich&#xe1;dzaj&#xfa; vo v&#xfd;kone, kamerovom syst&#xe9;me a v&#xfd;dr&#x17e;i bat&#xe9;rie.  Srdcom aj mozgom iPhonu SE je A15 Bionic, rovnak&#xfd; superv&#xfd;konn&#xfd; &#x10d;ip, ak&#xfd; je v iPhone 13. Ohromuj&#xfa;ci v&#xfd;kon naplno vyu&#x17e;ijete pri hran&#xed; najnov&#x161;&#xed;ch hier a multitaskingu. Procesor A15 Bionic stoj&#xed; tie&#x17e; za vyspel&#xfd;mi fotografick&#xfd;mi funkciami, v&#x10f;aka ktor&#xfd;m tv&#xe1;re, miesta aj v&#x161;etko ostatn&#xe9; na tvojich fotk&#xe1;ch vyzer&#xe1; fantasticky.  Novinkou je aj funkcia Smart HDR 4, ktor&#xe1; automaticky dola&#x10f;uje kontrast a svetlo, pre tie najkraj&#x161;ie z&#xe1;bery.     Pri ak&#xfd;chko&#x13e;vek sveteln&#xfd;ch podmienkach sa m&#xf4;&#x17e;ete spo&#x13e;ahn&#xfa;&#x165; na funkciu Deep Fusion, t&#xe1; v polo&#x161;ere a pr&#xed;tm&#xed; analyzuje pixel po pixele r&#xf4;zne expoz&#xed;cie a na fin&#xe1;lnej fotke vykresl&#xed; aj tie najjemnej&#x161;ie detaily, text&#xfa;ry a vzory.    iPhone SE 2022 dost&#xe1;va taktie&#x17e; podporu 5G siete, pre najr&#xfd;chlej&#x161;ie s&#x165;ahovanie a streamovnanie digit&#xe1;lneho obsahu.    Vysoko &#xfa;sporn&#xfd; &#x10d;ip A15 Bionic a zdokonalen&#xe1; bat&#xe9;ria prispievaj&#xfa; k ove&#x13e;a dlh&#x161;ej v&#xfd;dr&#x17e;i bat&#xe9;rie. Pre dobitie m&#xf4;&#x17e;ete vyu&#x17e;i&#x165; aj bezdr&#xf4;tov&#xfa; nab&#xed;ja&#x10d;ku.     Nov&#xfd; iPhone SE 2022 dostanete v troch farebn&#xfd;ch kombin&#xe1;ci&#xe1;ch, tmavej &#x10d;iernej, hviezdne bielej a v &#x10d;ervenej farbe (PRODUCT)RED.</DESCRIPTION>
             <PRICE_VAT>480.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>APPLE</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/apple-iphone-se-2022-256gb-biely?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1021054/detail-image.jpeg</IMGURL>
@@ -2592,7 +2568,7 @@ V porovnan&#xed; s predo&#x161;lou gener&#xe1;ciou nar&#xe1;stla kapacita bat&#x
 S podporou 5G navy&#x161;e z&#xed;skate to najr&#xfd;chlej&#x161;ie s&#x165;ahovanie a streamovanie obsahu.
 </DESCRIPTION>
             <PRICE_VAT>396.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>SAMSUNG</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/samsung-a53-5g-cierny?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1021092/detail-image.jpeg</IMGURL>
@@ -2638,7 +2614,7 @@ S pribalen&#xfd;m perom S Pen m&#xf4;&#x17e;ete p&#xed;sa&#x165; rovnako pohodln
 Vo v&#xfd;bave n&#xe1;jdete aj Bluetooth 5.2, Wi-Fi 6E, r&#xfd;chle USB-C, stereo reproduktory s podporou Dolby Atmos a 5000 mAh bat&#xe9;riu s podporou 45W nab&#xed;jania.
 </DESCRIPTION>
             <PRICE_VAT>1404.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>SAMSUNG</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/samsung-galaxy-s22-ultra-5g-256gb-cerveny?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1020751/detail-image.jpeg</IMGURL>
@@ -2681,7 +2657,7 @@ Trojit&#xe1; s&#xfa;stava objekt&#xed;vov je v zlo&#x17e;en&#xed;, hlavn&#xfd; 5
 Vo v&#xfd;bave n&#xe1;jdete aj Bluetooth 5.2, Wi-Fi 6E, r&#xfd;chle USB-C, stereo reproduktory s podporou Dolby Atmos a 4500 mAh bat&#xe9;riu s podporou 45W nab&#xed;jania.
 </DESCRIPTION>
             <PRICE_VAT>1104.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>SAMSUNG</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/samsung-galaxy-s22-plus-5g-128gb-zeleny?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1020680/detail-image.jpeg</IMGURL>
@@ -2724,7 +2700,7 @@ Pridanou hodnotou je aj adapt&#xe9;r v balen&#xed;, Huawei nova 9 SE podporuje a
 Nech&#xfd;ba ani NFC technol&#xf3;gia pre mobiln&#xe9; platby, alebo mimoriadne presn&#xfd; senzor odtla&#x10d;kov prstov.
 </DESCRIPTION>
             <PRICE_VAT>288.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>HUAWEI</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/huawei-nova-9-se-cierny?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1021117/detail-image.jpeg</IMGURL>
@@ -2761,7 +2737,7 @@ Pote&#x161;&#xed; v&#xe1;s aj fotografick&#xe1; v&#xfd;bava Doogee S59 Pro, ke&#
 
 </DESCRIPTION>
             <PRICE_VAT>228.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>DOOGEE</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/doogee-s59-pro-oranzovy?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1017695/detail-image.png</IMGURL>
@@ -2807,7 +2783,7 @@ Bat&#xe9;ria s kapacitou 4500 mAh pohodlne vysta&#x10d;&#xed; na intenz&#xed;vne
 Ak h&#x13e;ad&#xe1;te smartf&#xf3;n s kvalitn&#xfd;m displejom, vynikaj&#xfa;cim fotoapar&#xe1;tom a s podporou r&#xfd;chlej 5G siete, ktor&#xfd; v&#xe1;s nesklame v &#x17e;iadnej situ&#xe1;cii, Samsung Galaxy A52s 5G je t&#xe1; prav&#xe1; vo&#x13e;ba.
 </DESCRIPTION>
             <PRICE_VAT>372.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>SAMSUNG</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/samsung-galaxy-a52s-5g-cierny?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1019065/detail-image.jpeg</IMGURL>
@@ -2849,7 +2825,7 @@ O bezpe&#x10d;nos&#x165; sa postar&#xe1; &#x10d;&#xed;ta&#x10d;ka odtla&#x10d;ko
 T&#xe1;to novinka prich&#xe1;dza v mimoriadne zauj&#xed;mavej modrej farebnej variante.
 </DESCRIPTION>
             <PRICE_VAT>132.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>MOTOROLA</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/motorola-moto-g20-modra?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1019089/detail-image.jpeg</IMGURL>
@@ -2872,7 +2848,7 @@ T&#xe1;to novinka prich&#xe1;dza v mimoriadne zauj&#xed;mavej modrej farebnej va
             <PRODUCT>Nokia 8000 512MB/4GB čierna</PRODUCT>
             <DESCRIPTION>Nokia 8000 je novinkou na trhu, a v&#x10f;aka v&#xfd;konn&#xe9;mu procesoru Qualcomm&amp;reg; Snapdragon&amp;trade; 210 dr&#x17e;&#xed; s Vami krok za ka&#x17e;d&#xfd;ch okolnost&#xed;. Nokia 8000 V&#xe1;m taktie&#x17e; umo&#x17e;n&#xed; zosta&#x165; v spojen&#xed; v&#x17e;dy a v&#x161;ade. Kontakt s priate&#x13e;mi &#x10d;i rodinou v&#xe1;m u&#x13e;ah&#x10d;&#xed; WhatsApp a Facebook a z obchodu s aplik&#xe1;ciami si m&#xf4;&#x17e;ete stiahnu&#x165; mnoho &#x10f;al&#x161;&#xed;ch virtu&#xe1;lnych pomocn&#xed;kov.S Nokia 8000 sa nudi&#x165; ur&#x10d;ite nebudete. Prehr&#xe1;vajte si svoje ob&#x13e;&#xfa;ben&#xe9; pesni&#x10d;ky a sledujte najnov&#x161;ie vide&#xe1; na YouTube. Telefonovanie a seri&#xe1;ly &#x2013; to je len p&#xe1;r vec&#xed;, ktor&#xe9; na 4G be&#x17e;&#xed; lep&#x161;ie. A v&#x10f;aka WiFi hotspotu sa m&#xf4;&#x17e;u jednoducho pripoji&#x165; aj va&#x161;i priatelia. Radi rob&#xed;te veci jednoduch&#x161;ie? H&#x13e;adajte odpovede na ot&#xe1;zky, volajte svojim zn&#xe1;mym alebo si r&#xfd;chlo usporiadajte svoje pl&#xe1;ny pomocou Asistenta Google. Nokia 8000 obsahuje Li-Ion bat&#xe9;riu s vysokou kapacitou 1500 mAh, v&#x10f;aka ktorej m&#xe1;te zaru&#x10d;en&#xfa; dlh&#xfa; v&#xfd;dr&#x17e;.</DESCRIPTION>
             <PRICE_VAT>96.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>NOKIA</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/nokia-8000-4g-cierny?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1018913/detail-image.jpeg</IMGURL>
@@ -2913,7 +2889,7 @@ V&#xfd;kon, na ktor&#xfd; sa m&#xf4;&#x17e;e&#x161; spo&#x13e;ahn&#xfa;&#x165;
 &#x10c;ip A13 Bionic je v dne&#x161;nej dobe definovan&#xfd; ako najv&#xfd;konnej&#x161;&#xed; mobiln&#xfd; &#x10d;ip. V porovnan&#xed; s konkurenciou je o nieko&#x13e;ko v&#xfd;vojov&#xfd;ch krokov vpred. A13 Bionic je z&#xe1;rukou exkl&#xfa;zivn&#xe9;ho v&#xfd;konu, ktor&#xfd; ide v ruka v ruke s dlhou v&#xfd;dr&#x17e;ou bat&#xe9;rie na jedno nabitie. V pr&#xed;pade, &#x17e;e sa v&#xe1;&#x161; mobil vybije, m&#xf4;&#x17e;ete pou&#x17e;i&#x165; r&#xfd;chly 18W adapt&#xe9;r.
 </DESCRIPTION>
             <PRICE_VAT>1464.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>APPLE</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/apple-iphone-11-pro-max-256gb-sedy?preferredProgram=</URL>
             
@@ -2936,7 +2912,7 @@ V&#xfd;kon, na ktor&#xfd; sa m&#xf4;&#x17e;e&#x161; spo&#x13e;ahn&#xfa;&#x165;
             <PRODUCT>Nokia 230 DS tmavostrieborná</PRODUCT>
             <DESCRIPTION>Mal&#xfd; a &#x161;ikovn&#xfd;</DESCRIPTION>
             <PRICE_VAT>72.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>NOKIA</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/nokia230-dual-sim-tmavostrieborny?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1862/detail-image.jpeg</IMGURL>
@@ -2975,7 +2951,7 @@ Energia na rozd&#xe1;vanie
 Technol&#xf3;gia bezdr&#xf4;tov&#xe9;ho zdie&#x13e;anie energie v&#xe1;m d&#xe1;va mo&#x17e;nos&#x165; nab&#xed;ja&#x165; aj &#x10f;al&#x161;ie zariadenia a podeli&#x165; sa tak o va&#x161;u 3 400 mAh bat&#xe9;riu. A v&#x10f;aka podpore r&#xfd;chleho bezdr&#xf4;tov&#xe9;ho nab&#xed;jania bude kapacita bat&#xe9;rie zakr&#xe1;tko op&#xe4;&#x165; stopercentn&#xe1;. Samsung navrhol hardware aj software tak, aby bol v&#xfd;kon pri hran&#xed; hier lep&#x161;&#xed; a bez ome&#x161;kan&#xed;. Inteligencia a pokro&#x10d;il&#xfd; hardware telef&#xf3;nu sa u&#x10d;&#xed;, ako telef&#xf3;n pou&#x17e;&#xed;vate. Prisp&#xf4;sobuje jeho mo&#x17e;nosti tak, aby dlh&#x161;ie vydr&#x17e;al a lep&#x161;ie sa v&#xe1;m s n&#xed;m pracovalo. Tak&#x17e;e budete ove&#x13e;a efekt&#xed;vnej&#x161;&#xed; cel&#xfd; de&#x148;.
 </DESCRIPTION>
             <PRICE_VAT>600.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>SAMSUNG</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/samsung-galaxy-s-10-128-gb-zeleny?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/10480/detail-image.jpeg</IMGURL>
@@ -2998,7 +2974,7 @@ Technol&#xf3;gia bezdr&#xf4;tov&#xe9;ho zdie&#x13e;anie energie v&#xe1;m d&#xe1;
             <PRODUCT>Motorola Moto G60 6GB/128GB šedá</PRODUCT>
             <DESCRIPTION>Novinka od Motoroly zaujme elegantn&#xfd;m dizajnom &#x161;pi&#x10d;kov&#xfd;m displejom a fotoapar&#xe1;tom.    Na ve&#x13e;kej 6,8&quot; obrazovke m&#xf4;&#x17e;ete komfortne sledova&#x165; filmy a vide&#xe1;. Technol&#xf3;gia HDR10 v&#xe1;m zaru&#x10d;uje vysok&#xfd; kontrast, a &#x17e;iariv&#xe9; farby v ka&#x17e;dej scen&#xe9;rii.Motorola Moto G60 navy&#x161;e dostala 120 Hz obnovovaciu frekvenciu displeja, plynulos&#x165; anim&#xe1;cii a hern&#xe9; z&#xe1;&#x17e;itky, si va&#x161;e o&#x10d;i doslova vychutnaj&#xfa;.    Pri trojitom zadnom fotoapar&#xe1;te dominuje 108 Mpx sn&#xed;ma&#x10d; pre fantastick&#xe9;, detailn&#xe9; fotografie.Motorola si porad&#xed; aj s kvalitn&#xfd;mi z&#xe1;bermi s rozmazan&#xfd;m pozad&#xed;m. V&#x10f;aka &#x161;irokouhl&#xe9;mu sn&#xed;ma&#x10d;u zachyt&#xed;te na jednom z&#xe1;bere a&#x17e; 118&#xb0;. Na prednej strane n&#xe1;jdeme vynikaj&#xfa;cu selfie kameru vhodn&#xfa; na aj na profesion&#xe1;lne video hovory.  Spo&#x13e;ahn&#xfa;&#x165; sa m&#xf4;&#x17e;ete na nadpriemern&#xfa; v&#xfd;dr&#x17e; bat&#xe9;rie, a&#x17e; 6000 mAh, v&#xe1;m prinesie viacdenn&#xe9; pou&#x17e;&#xed;vanie bez potreby dob&#xed;jania.    Vynikaj&#xfa;ci dizajn, ultratenk&#xe9; r&#xe1;m&#x10d;eky a elegantn&#xe1; siv&#xe1; farba len podtrhuj&#xfa; kvalitu a v&#xfd;kon, ktorou Motorola Moto G60 nesporne disponuje.</DESCRIPTION>
             <PRICE_VAT>204.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>MOTOROLA</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/motorola-moto-g60-seda?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1019856/detail-image.jpeg</IMGURL>
@@ -3045,7 +3021,7 @@ S pribalen&#xfd;m perom S Pen m&#xf4;&#x17e;ete p&#xed;sa&#x165; rovnako pohodln
 Vo v&#xfd;bave n&#xe1;jdete aj Bluetooth 5.2, Wi-Fi 6E, r&#xfd;chle USB-C, stereo reproduktory s podporou Dolby Atmos a 5000 mAh bat&#xe9;riu s podporou 45W nab&#xed;jania.
 </DESCRIPTION>
             <PRICE_VAT>1512.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>SAMSUNG</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/samsung-galaxy-s22-ultra-5g-512gb-cerveny?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1021258/detail-image.jpeg</IMGURL>
@@ -3076,7 +3052,7 @@ Vo v&#xfd;bave n&#xe1;jdete aj Bluetooth 5.2, Wi-Fi 6E, r&#xfd;chle USB-C, stere
             <PRODUCT>OPPO A96 6GB/128GB modrá</PRODUCT>
             <DESCRIPTION>Nov&#xfd; OPPO A96 pon&#xfa;kne kvalitn&#xfd; displej, podaren&#xfd; dizajn a vysok&#xfd; v&#xfd;kon za dostupn&#xfa; cenu. Ve&#x13e;k&#xe1; IPS obrazovka s obnovovacou frekvenciou 90 Hz pote&#x161;&#xed; plynulos&#x165;ou, ktor&#xfa; pon&#xfa;ka pri pozeran&#xed; vide&#xed;, filmov a hran&#xed; hier.    V&#xfd;kon zabezpe&#x10d;uje osemjadrov&#xfd; procesor Qualcomm Snapdragon 680, ktor&#xe9;mu sekunduje opera&#x10d;n&#xe1; pam&#xe4;&#x165; s ve&#x13e;kos&#x165;ou 6 GB. O r&#xfd;chly a bezprobl&#xe9;mov&#xfd; chod syst&#xe9;mu Android 11, tak budete ma&#x165; vynikaj&#xfa;co postaran&#xe9;.    Zadn&#xfd;m fotoapar&#xe1;tom dominuje hlavn&#xfd; 50 Mpx sn&#xed;ma&#x10d;, prid&#xe1;va sa senzor h&#x13a;bky pre portr&#xe9;tov&#xe9; fotografie s rozmazan&#xfd;m pozad&#xed;m. Na prednej strane n&#xe1;jdeme 16 Mpx selfie kameru.     OPPO A96 sa p&#xfd;&#x161;i kapacitou bat&#xe9;rie a&#x17e; 5000 mAh, ktor&#xe1; v&#xe1;m zaru&#x10d;&#xed; pohodln&#xe9; viacd&#x148;ov&#xe9; vyu&#x17e;&#xed;vanie. 33W, r&#xfd;chle nab&#xed;janie sa zase postar&#xe1; o to, aby ste energiu mali okam&#x17e;ite. Navy&#x161;e tu n&#xe1;jdete aj reverzn&#xe9; nab&#xed;janie.    Bezpe&#x10d;nos&#x165; zabezpe&#x10d;&#xed; mimoriadne presn&#xe1; &#x10d;&#xed;ta&#x10d;ka odtla&#x10d;kov prstov, nach&#xe1;dzaj&#xfa;ca sa v bo&#x10d;nom tla&#x10d;idle.    Pokia&#x13e; h&#x13e;ad&#xe1;te smartf&#xf3;n s kvalitn&#xfd;m displejom, r&#xfd;chlymi reakciami syst&#xe9;mu Android, s odladenou nadstavbou a vysok&#xfd;m v&#xfd;konom za dostupn&#xfa; cenu, &#x10f;alej h&#x13e;ada&#x165; nemus&#xed;te.</DESCRIPTION>
             <PRICE_VAT>240.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>OPPO</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/oppo-a96-modry?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1021292/detail-image.jpeg</IMGURL>
@@ -3107,7 +3083,7 @@ Vo v&#xfd;bave n&#xe1;jdete aj Bluetooth 5.2, Wi-Fi 6E, r&#xfd;chle USB-C, stere
             <PRODUCT>Apple iPhone 13 4GB/256GB biela</PRODUCT>
             <DESCRIPTION>Najnov&#x161;&#xed; iPhone 13 prin&#xe1;&#x161;a monument&#xe1;lny v&#xfd;kon &#x10d;ipu A15 Bionic. Najv&#xfd;konnej&#x161;ieho mobiln&#xe9;ho procesoru s&#xfa;&#x10d;asnosti.  Novinka pon&#xfa;ka vynikaj&#xfa;ci 6,1 palcov&#xfd; Super Retina XDR displej. Pou&#x17e;it&#xe1; OLED technol&#xf3;gia umo&#x17e;nila perfektn&#xe9; kontrastn&#xe9; zobrazenie, prvotriedny obraz, n&#xe1;rast svietivosti a efekt&#xed;vne &#x161;etrenie bat&#xe9;rie.  V&#xfd;dr&#x17e; bat&#xe9;rie v porovnan&#xed; s predch&#xe1;dzaj&#xfa;cou gener&#xe1;ciou nar&#xe1;stla a&#x17e; o 2,5 hodiny. iPhone 13 disponuje technol&#xf3;giou bezdr&#xf4;tov&#xe9;ho nab&#xed;jania MagSafe. Vylep&#x161;en&#xfd; fotoapar&#xe1;t a holywoodsky video re&#x17e;im  Vylep&#x161;enia rozhodne neobi&#x161;li ani fotoapar&#xe1;t, na zadnej strane n&#xe1;jdete &#x161;irokouhl&#xfd; a ultra&#x161;irokouhl&#xfd; objekt&#xed;v, ktor&#xe9; s&#xfa; vo&#x10d;i sebe ulo&#x17e;en&#xe9; v 45-stup&#x148;ovom uhle. Nov&#xfd; &#x161;irokouhl&#xfd; fotoapar&#xe1;t je dod&#xe1;van&#xfd; s najv&#xe4;&#x10d;&#x161;&#xed;m sn&#xed;ma&#x10d;om, ak&#xfd; bol doposia&#x13e; v iPhone s dvomi kamerami pou&#x17e;it&#xfd;, pri&#x10d;om je schopn&#xfd; zachyti&#x165; a&#x17e; o 47 percent viac svetla ako predo&#x161;l&#xe1; gener&#xe1;cia.  Novinkou je Cinematic mode, ide &#x161;peci&#xe1;lny video re&#x17e;im, ktor&#xfd; v&#xe1;m umo&#x17e;n&#xed; preostrova&#x165; v r&#xe1;mci jedn&#xe9;ho video z&#xe1;beru, presne tak, ako to pozn&#xe1;te z hollywoodskych filmov. Cinematic mode viete navy&#x161;e vyu&#x17e;i&#x165; so v&#x161;etk&#xfd;mi fotoapar&#xe1;tmi na iPhone. Vynikaj&#xfa;ce v&#xfd;sledky pri no&#x10d;nom foten&#xed;, dosiahnete s nov&#xfd;m prepracovan&#xfd;m no&#x10d;n&#xfd;m re&#x17e;imom, novinkou s&#xfa; aj fotografick&#xe9; &#x161;t&#xfd;ly.Mimoriadna bezpe&#x10d;nos&#x165; a odolnos&#x165; Senzor TrueDepth sa zmen&#x161;il, pri&#x10d;om st&#xe1;le obsahuje rovnak&#xe9; prelomov&#xe9; technol&#xf3;gie Face ID, najbezpe&#x10d;nej&#x161;ej autentifik&#xe1;cie tv&#xe1;re, v smartf&#xf3;ne.  iPhone 13 navy&#x161;e pon&#xfa;ka odolnos&#x165; vo&#x10d;i vode a prachu v &#x161;tandarde IP68. Nech&#xfd;ba ani podpora 5G siete, pre najr&#xfd;chlej&#x161;ie prehliadanie, streamovanie a s&#x165;ahovanie obsahu. iPhone 13 prich&#xe1;dza spolu s nov&#xfd;m, vylep&#x161;en&#xfd;m opera&#x10d;n&#xfd;m syst&#xe9;mom iOS 15.</DESCRIPTION>
             <PRICE_VAT>948.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>APPLE</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/apple-iphone-13-256gb-biely?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1019484/detail-image.jpeg</IMGURL>
@@ -3151,7 +3127,7 @@ V porovnan&#xed; s predo&#x161;lou gener&#xe1;ciou nar&#xe1;stla kapacita bat&#x
 S podporou 5G navy&#x161;e z&#xed;skate to najr&#xfd;chlej&#x161;ie s&#x165;ahovanie a streamovanie obsahu.
 </DESCRIPTION>
             <PRICE_VAT>396.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>SAMSUNG</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/samsung-galaxy-a53-5g-modry?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1021096/detail-image.jpeg</IMGURL>
@@ -3195,7 +3171,7 @@ Telef&#xf3;n pon&#xfa;ka mo&#x17e;nos&#x165; roz&#x161;&#xed;renia vn&#xfa;torne
 Alcatel 3085 4G obsahuje priamo v balen&#xed; nab&#xed;jac&#xed; stojan, s ktor&#xfd;m bude dobitie bat&#xe9;rie naozaj jednoduch&#xe9;.
 </DESCRIPTION>
             <PRICE_VAT>60.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>ALCATEL</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/alcatel-3085x-4g-cierny?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1020119/detail-image.jpeg</IMGURL>
@@ -3227,7 +3203,7 @@ Alcatel 3085 4G obsahuje priamo v balen&#xed; nab&#xed;jac&#xed; stojan, s ktor&
             <DESCRIPTION>Pracujete v extr&#xe9;mnych podmienkach? L&#xe1;kaj&#xfa; v&#xe1;s v&#xfd;lety do divokej pr&#xed;rody? Alebo m&#xe1;te v z&#xe1;&#x13e;ube adrenal&#xed;nove &#x161;porty? Vo v&#x161;etk&#xfd;ch uveden&#xfd;ch pr&#xed;kladoch sa m&#xf4;&#x17e;ete na 100% spo&#x13e;ahn&#xfa;&#x165; na skvel&#xfd; mobiln&#xfd; telef&#xf3;n Doogee S40 Pro. Tento obrnen&#xfd; smartf&#xf3;n toti&#x17e; vynik&#xe1; jeho &#x161;pi&#x10d;kovou odolnos&#x165;ou, v&#x10f;aka ktorej ho m&#xf4;&#x17e;ete ma&#x165; so sebou takmer kdeko&#x13e;vek. Nevad&#xed; mu toti&#x17e; voda, prach ani drsn&#xe9; zaobch&#xe1;dzanie. Mohutn&#xe1; kon&#x161;trukcia ukr&#xfd;va &#x161;pi&#x10d;kov&#xe9; hardv&#xe9;rov&#xe9; z&#xe1;zemie, ktor&#xe9; je z&#xe1;rukou v&#x17e;dy dostato&#x10d;n&#xe9;ho v&#xfd;konu.
 Jadrom mobilu je 8-jadrov&#xfd; procesor MediaTek MT6762D A2, ktor&#xfd; dop&#x13a;&#x148;a 4 GB opera&#x10d;n&#xe1; pam&#xe4;&#x165;. S touto kombin&#xe1;ciou sa v&#xe1;m otv&#xe1;ra cesta k modern&#xfd;m mobiln&#xfd;m aplik&#xe1;ci&#xe1;m, inovat&#xed;vnym hr&#xe1;m aj multim&#xe9;di&#xe1;m vo ve&#x13e;mi vysokom rozl&#xed;&#x161;en&#xed;. Doogee S40 Pro v&#xe1;m dokonale posl&#xfa;&#x17e;i v akejko&#x13e;vek situ&#xe1;cii.Svoje &#x161;portov&#xe9; aktivity, adrenal&#xed;nov&#xe9; z&#xe1;&#x17e;itky &#x10d;i kr&#xe1;sy pr&#xed;rody m&#xf4;&#x17e;ete s mobilom Doogee S40 Pro zachyti&#x165; na kr&#xe1;snych fotk&#xe1;ch &#x10d;i vide&#xe1;ch. Doogee S40 Pro pon&#xfa;ka du&#xe1;lny fotoapar&#xe1;t, ktor&#xfd; vyu&#x17e;&#xed;va spolupr&#xe1;cu dvoch optick&#xfd;ch senzorov (rozl&#xed;&#x161;enie 13 Mpx + 2 Mpx). Samozrejme nech&#xfd;ba ani selfie kamera &#x2013; t&#xe1; pracuje s rozl&#xed;&#x161;en&#xed;m 5 Mpx a pon&#xfa;ka 80&#xb0; uhol z&#xe1;beru. </DESCRIPTION>
             <PRICE_VAT>144.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>DOOGEE</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/doogee-s40-pro-cierny?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1017685/detail-image.jpeg</IMGURL>
@@ -3276,7 +3252,7 @@ Jadrom mobilu je 8-jadrov&#xfd; procesor MediaTek MT6762D A2, ktor&#xfd; dop&#x1
 
 </DESCRIPTION>
             <PRICE_VAT>144.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>OPPO</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/oppo-reno7-lite-5g-strieborny?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1021189/detail-image.jpeg</IMGURL>
@@ -3307,7 +3283,7 @@ Jadrom mobilu je 8-jadrov&#xfd; procesor MediaTek MT6762D A2, ktor&#xfd; dop&#x1
             <PRODUCT>MAXCOM Comfort MM724 čierna</PRODUCT>
             <DESCRIPTION>Mobiln&#xfd; telef&#xf3;n COMFORT MM724 je navrhnut&#xfd; pre potreby star&#x161;&#xed;ch &#x13e;ud&#xed;. Pon&#xfa;ka n&#xfa;dzov&#xe9; tla&#x10d;idlo, ve&#x13e;k&#xe9; tla&#x10d;idl&#xe1; a pohodln&#xe9; telo. SIM kartu je mo&#x17e;n&#xe9; vybra&#x165; priamo cez slot na bo&#x10d;nej strane. Telef&#xf3;n m&#xe1; mnoho u&#x17e;ito&#x10d;n&#xfd;ch funkci&#xed; ako hlasit&#xfd; odposluch, Bluetooth, FM r&#xe1;dio, kalend&#xe1;r, blesk, prehr&#xe1;va&#x10d; videa a hudby, ale aj fotoapar&#xe1;t s rozl&#xed;&#x161;en&#xed;m 1,3Mpx. Je vybaven&#xfd; slotom na micro SD kartu. Displej m&#xe1; ve&#x13e;kos&#x165; 2,2&quot; a rozl&#xed;&#x161;enie 220 x 176 pix</DESCRIPTION>
             <PRICE_VAT>72.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>MAXCOM</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/maxcom-mm724-cierny?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1020355/detail-image.jpeg</IMGURL>
@@ -3342,7 +3318,7 @@ Jadrom mobilu je 8-jadrov&#xfd; procesor MediaTek MT6762D A2, ktor&#xfd; dop&#x1
 	
 </DESCRIPTION>
             <PRICE_VAT>192.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>CATERPILLAR</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/cat-s42h-plus-cierny?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1018154/detail-image.png</IMGURL>
@@ -3403,7 +3379,7 @@ iOS 12
 
 Nov&#xe1; verzia syst&#xe9;mu iOS 12 je pripraven&#xe1; vyu&#x17e;i&#x165; potenci&#xe1;l Apple iPhone Xs na maximum. T&#xe1;to verzia syst&#xe9;mu iOS prin&#xe1;&#x161;a neprebern&#xe9; mno&#x17e;stv...</DESCRIPTION>
             <PRICE_VAT>492.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>APPLE</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/apple-xs-64gb-sedy?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/8755/detail-image.jpeg</IMGURL>
@@ -3423,7 +3399,7 @@ Nov&#xe1; verzia syst&#xe9;mu iOS 12 je pripraven&#xe1; vyu&#x17e;i&#x165; poten
             <PRODUCT>Apple iPhone 13 4GB/128GB čierna</PRODUCT>
             <DESCRIPTION>Najnov&#x161;&#xed; iPhone 13 prin&#xe1;&#x161;a monument&#xe1;lny v&#xfd;kon &#x10d;ipu A15 Bionic. Najv&#xfd;konnej&#x161;ieho mobiln&#xe9;ho procesoru s&#xfa;&#x10d;asnosti.  Novinka pon&#xfa;ka vynikaj&#xfa;ci 6,1 palcov&#xfd; Super Retina XDR displej. Pou&#x17e;it&#xe1; OLED technol&#xf3;gia umo&#x17e;nila perfektn&#xe9; kontrastn&#xe9; zobrazenie, prvotriedny obraz, n&#xe1;rast svietivosti a efekt&#xed;vne &#x161;etrenie bat&#xe9;rie.  V&#xfd;dr&#x17e; bat&#xe9;rie v porovnan&#xed; s predch&#xe1;dzaj&#xfa;cou gener&#xe1;ciou nar&#xe1;stla a&#x17e; o 2,5 hodiny. iPhone 13 disponuje technol&#xf3;giou bezdr&#xf4;tov&#xe9;ho nab&#xed;jania MagSafe. Vylep&#x161;en&#xfd; fotoapar&#xe1;t a holywoodsky video re&#x17e;im  Vylep&#x161;enia rozhodne neobi&#x161;li ani fotoapar&#xe1;t, na zadnej strane n&#xe1;jdete &#x161;irokouhl&#xfd; a ultra&#x161;irokouhl&#xfd; objekt&#xed;v, ktor&#xe9; s&#xfa; vo&#x10d;i sebe ulo&#x17e;en&#xe9; v 45-stup&#x148;ovom uhle. Nov&#xfd; &#x161;irokouhl&#xfd; fotoapar&#xe1;t je dod&#xe1;van&#xfd; s najv&#xe4;&#x10d;&#x161;&#xed;m sn&#xed;ma&#x10d;om, ak&#xfd; bol doposia&#x13e; v iPhone s dvomi kamerami pou&#x17e;it&#xfd;, pri&#x10d;om je schopn&#xfd; zachyti&#x165; a&#x17e; o 47 percent viac svetla ako predo&#x161;l&#xe1; gener&#xe1;cia.  Novinkou je Cinematic mode, ide &#x161;peci&#xe1;lny video re&#x17e;im, ktor&#xfd; v&#xe1;m umo&#x17e;n&#xed; preostrova&#x165; v r&#xe1;mci jedn&#xe9;ho video z&#xe1;beru, presne tak, ako to pozn&#xe1;te z hollywoodskych filmov. Cinematic mode viete navy&#x161;e vyu&#x17e;i&#x165; so v&#x161;etk&#xfd;mi fotoapar&#xe1;tmi na iPhone. Vynikaj&#xfa;ce v&#xfd;sledky pri no&#x10d;nom foten&#xed;, dosiahnete s nov&#xfd;m prepracovan&#xfd;m no&#x10d;n&#xfd;m re&#x17e;imom, novinkou s&#xfa; aj fotografick&#xe9; &#x161;t&#xfd;ly.Mimoriadna bezpe&#x10d;nos&#x165; a odolnos&#x165; Senzor TrueDepth sa zmen&#x161;il, pri&#x10d;om st&#xe1;le obsahuje rovnak&#xe9; prelomov&#xe9; technol&#xf3;gie Face ID, najbezpe&#x10d;nej&#x161;ej autentifik&#xe1;cie tv&#xe1;re, v smartf&#xf3;ne.  iPhone 13 navy&#x161;e pon&#xfa;ka odolnos&#x165; vo&#x10d;i vode a prachu v &#x161;tandarde IP68. Nech&#xfd;ba ani podpora 5G siete, pre najr&#xfd;chlej&#x161;ie prehliadanie, streamovanie a s&#x165;ahovanie obsahu. iPhone 13 prich&#xe1;dza spolu s nov&#xfd;m, vylep&#x161;en&#xfd;m opera&#x10d;n&#xfd;m syst&#xe9;mom iOS 15.</DESCRIPTION>
             <PRICE_VAT>492.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>APPLE</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/apple-iphone-13-128gb-cierny?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1019465/detail-image.jpeg</IMGURL>
@@ -3454,7 +3430,7 @@ Nov&#xe1; verzia syst&#xe9;mu iOS 12 je pripraven&#xe1; vyu&#x17e;i&#x165; poten
             <PRODUCT>Apple iPhone 13 4GB/128GB biela</PRODUCT>
             <DESCRIPTION>Najnov&#x161;&#xed; iPhone 13 prin&#xe1;&#x161;a monument&#xe1;lny v&#xfd;kon &#x10d;ipu A15 Bionic. Najv&#xfd;konnej&#x161;ieho mobiln&#xe9;ho procesoru s&#xfa;&#x10d;asnosti.  Novinka pon&#xfa;ka vynikaj&#xfa;ci 6,1 palcov&#xfd; Super Retina XDR displej. Pou&#x17e;it&#xe1; OLED technol&#xf3;gia umo&#x17e;nila perfektn&#xe9; kontrastn&#xe9; zobrazenie, prvotriedny obraz, n&#xe1;rast svietivosti a efekt&#xed;vne &#x161;etrenie bat&#xe9;rie.  V&#xfd;dr&#x17e; bat&#xe9;rie v porovnan&#xed; s predch&#xe1;dzaj&#xfa;cou gener&#xe1;ciou nar&#xe1;stla a&#x17e; o 2,5 hodiny. iPhone 13 disponuje technol&#xf3;giou bezdr&#xf4;tov&#xe9;ho nab&#xed;jania MagSafe. Vylep&#x161;en&#xfd; fotoapar&#xe1;t a holywoodsky video re&#x17e;im  Vylep&#x161;enia rozhodne neobi&#x161;li ani fotoapar&#xe1;t, na zadnej strane n&#xe1;jdete &#x161;irokouhl&#xfd; a ultra&#x161;irokouhl&#xfd; objekt&#xed;v, ktor&#xe9; s&#xfa; vo&#x10d;i sebe ulo&#x17e;en&#xe9; v 45-stup&#x148;ovom uhle. Nov&#xfd; &#x161;irokouhl&#xfd; fotoapar&#xe1;t je dod&#xe1;van&#xfd; s najv&#xe4;&#x10d;&#x161;&#xed;m sn&#xed;ma&#x10d;om, ak&#xfd; bol doposia&#x13e; v iPhone s dvomi kamerami pou&#x17e;it&#xfd;, pri&#x10d;om je schopn&#xfd; zachyti&#x165; a&#x17e; o 47 percent viac svetla ako predo&#x161;l&#xe1; gener&#xe1;cia.  Novinkou je Cinematic mode, ide &#x161;peci&#xe1;lny video re&#x17e;im, ktor&#xfd; v&#xe1;m umo&#x17e;n&#xed; preostrova&#x165; v r&#xe1;mci jedn&#xe9;ho video z&#xe1;beru, presne tak, ako to pozn&#xe1;te z hollywoodskych filmov. Cinematic mode viete navy&#x161;e vyu&#x17e;i&#x165; so v&#x161;etk&#xfd;mi fotoapar&#xe1;tmi na iPhone. Vynikaj&#xfa;ce v&#xfd;sledky pri no&#x10d;nom foten&#xed;, dosiahnete s nov&#xfd;m prepracovan&#xfd;m no&#x10d;n&#xfd;m re&#x17e;imom, novinkou s&#xfa; aj fotografick&#xe9; &#x161;t&#xfd;ly.Mimoriadna bezpe&#x10d;nos&#x165; a odolnos&#x165; Senzor TrueDepth sa zmen&#x161;il, pri&#x10d;om st&#xe1;le obsahuje rovnak&#xe9; prelomov&#xe9; technol&#xf3;gie Face ID, najbezpe&#x10d;nej&#x161;ej autentifik&#xe1;cie tv&#xe1;re, v smartf&#xf3;ne.  iPhone 13 navy&#x161;e pon&#xfa;ka odolnos&#x165; vo&#x10d;i vode a prachu v &#x161;tandarde IP68. Nech&#xfd;ba ani podpora 5G siete, pre najr&#xfd;chlej&#x161;ie prehliadanie, streamovanie a s&#x165;ahovanie obsahu. iPhone 13 prich&#xe1;dza spolu s nov&#xfd;m, vylep&#x161;en&#xfd;m opera&#x10d;n&#xfd;m syst&#xe9;mom iOS 15.</DESCRIPTION>
             <PRICE_VAT>492.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>APPLE</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/apple-iphone-13-128gb-biely?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1019460/detail-image.jpeg</IMGURL>
@@ -3505,7 +3481,7 @@ Bat&#xe9;ria s kapacitou 4300 mAh pohodlne vysta&#x10d;&#xed; na intenz&#xed;vne
 Huawei nova 9 navy&#x161;e disponuje extra r&#xfd;chlim nab&#xed;jan&#xed;m a&#x17e; 66W, ktor&#xe9; dod&#xe1; smartf&#xf3;nu energiu z 0 na 70% za pol hodinku. V&#xe1;&#x161; smartf&#xf3;n tak bude pripraven&#xfd; na pou&#x17e;ite v&#x17e;dy, ke&#x10f; ho budete potrebova&#x165;.
 </DESCRIPTION>
             <PRICE_VAT>480.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>HUAWEI</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/huawei-nova-9-cierny?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1019880/detail-image.jpeg</IMGURL>
@@ -3536,7 +3512,7 @@ Huawei nova 9 navy&#x161;e disponuje extra r&#xfd;chlim nab&#xed;jan&#xed;m a&#x
             <PRODUCT>Apple iPhone 13 4GB/256GB modrá</PRODUCT>
             <DESCRIPTION>Najnov&#x161;&#xed; iPhone 13 prin&#xe1;&#x161;a monument&#xe1;lny v&#xfd;kon &#x10d;ipu A15 Bionic. Najv&#xfd;konnej&#x161;ieho mobiln&#xe9;ho procesoru s&#xfa;&#x10d;asnosti.  Novinka pon&#xfa;ka vynikaj&#xfa;ci 6,1 palcov&#xfd; Super Retina XDR displej. Pou&#x17e;it&#xe1; OLED technol&#xf3;gia umo&#x17e;nila perfektn&#xe9; kontrastn&#xe9; zobrazenie, prvotriedny obraz, n&#xe1;rast svietivosti a efekt&#xed;vne &#x161;etrenie bat&#xe9;rie.  V&#xfd;dr&#x17e; bat&#xe9;rie v porovnan&#xed; s predch&#xe1;dzaj&#xfa;cou gener&#xe1;ciou nar&#xe1;stla a&#x17e; o 2,5 hodiny. iPhone 13 disponuje technol&#xf3;giou bezdr&#xf4;tov&#xe9;ho nab&#xed;jania MagSafe. Vylep&#x161;en&#xfd; fotoapar&#xe1;t a holywoodsky video re&#x17e;im  Vylep&#x161;enia rozhodne neobi&#x161;li ani fotoapar&#xe1;t, na zadnej strane n&#xe1;jdete &#x161;irokouhl&#xfd; a ultra&#x161;irokouhl&#xfd; objekt&#xed;v, ktor&#xe9; s&#xfa; vo&#x10d;i sebe ulo&#x17e;en&#xe9; v 45-stup&#x148;ovom uhle. Nov&#xfd; &#x161;irokouhl&#xfd; fotoapar&#xe1;t je dod&#xe1;van&#xfd; s najv&#xe4;&#x10d;&#x161;&#xed;m sn&#xed;ma&#x10d;om, ak&#xfd; bol doposia&#x13e; v iPhone s dvomi kamerami pou&#x17e;it&#xfd;, pri&#x10d;om je schopn&#xfd; zachyti&#x165; a&#x17e; o 47 percent viac svetla ako predo&#x161;l&#xe1; gener&#xe1;cia.  Novinkou je Cinematic mode, ide &#x161;peci&#xe1;lny video re&#x17e;im, ktor&#xfd; v&#xe1;m umo&#x17e;n&#xed; preostrova&#x165; v r&#xe1;mci jedn&#xe9;ho video z&#xe1;beru, presne tak, ako to pozn&#xe1;te z hollywoodskych filmov. Cinematic mode viete navy&#x161;e vyu&#x17e;i&#x165; so v&#x161;etk&#xfd;mi fotoapar&#xe1;tmi na iPhone. Vynikaj&#xfa;ce v&#xfd;sledky pri no&#x10d;nom foten&#xed;, dosiahnete s nov&#xfd;m prepracovan&#xfd;m no&#x10d;n&#xfd;m re&#x17e;imom, novinkou s&#xfa; aj fotografick&#xe9; &#x161;t&#xfd;ly.Mimoriadna bezpe&#x10d;nos&#x165; a odolnos&#x165; Senzor TrueDepth sa zmen&#x161;il, pri&#x10d;om st&#xe1;le obsahuje rovnak&#xe9; prelomov&#xe9; technol&#xf3;gie Face ID, najbezpe&#x10d;nej&#x161;ej autentifik&#xe1;cie tv&#xe1;re, v smartf&#xf3;ne.  iPhone 13 navy&#x161;e pon&#xfa;ka odolnos&#x165; vo&#x10d;i vode a prachu v &#x161;tandarde IP68. Nech&#xfd;ba ani podpora 5G siete, pre najr&#xfd;chlej&#x161;ie prehliadanie, streamovanie a s&#x165;ahovanie obsahu. iPhone 13 prich&#xe1;dza spolu s nov&#xfd;m, vylep&#x161;en&#xfd;m opera&#x10d;n&#xfd;m syst&#xe9;mom iOS 15.</DESCRIPTION>
             <PRICE_VAT>948.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>APPLE</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/apple-iphone-13-256gb-modry?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1019475/detail-image.jpeg</IMGURL>
@@ -3584,7 +3560,7 @@ S&#xfa;&#x10d;as&#x165;ou balenia Motorola Moto G9 Play s&#xfa; aj sl&#xfa;chadl
 
 </DESCRIPTION>
             <PRICE_VAT>168.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>MOTOROLA</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/motorola-moto-g9-play-zelena?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1015852/detail-image.png</IMGURL>
@@ -3627,7 +3603,7 @@ Bat&#xe9;ria s kapacitou 4300 mAh pohodlne vysta&#x10d;&#xed; na intenz&#xed;vne
 Huawei nova 9 navy&#x161;e disponuje extra r&#xfd;chlim nab&#xed;jan&#xed;m a&#x17e; 66W, ktor&#xe9; dod&#xe1; smartf&#xf3;nu energiu z 0 na 70% za pol hodinku. V&#xe1;&#x161; smartf&#xf3;n tak bude pripraven&#xfd; na pou&#x17e;ite v&#x17e;dy, ke&#x10f; ho budete potrebova&#x165;.
 </DESCRIPTION>
             <PRICE_VAT>480.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>HUAWEI</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/huawei-nova-9-modry?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1020221/detail-image.jpeg</IMGURL>
@@ -3668,7 +3644,7 @@ Priv&#xed;tajte novinku OPPO Reno 5. OPPO Reno 5  V&#xe1;m pon&#xfa;ka kombin&#x
 	
 </DESCRIPTION>
             <PRICE_VAT>408.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>OPPO</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/oppo-reno5-5g-modry?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1018694/detail-image.png</IMGURL>
@@ -3711,7 +3687,7 @@ Trojit&#xe1; s&#xfa;stava objekt&#xed;vov je v zlo&#x17e;en&#xed;, hlavn&#xfd; 5
 Vo v&#xfd;bave n&#xe1;jdete aj Bluetooth 5.2, Wi-Fi 6E, r&#xfd;chle USB-C, stereo reproduktory s podporou Dolby Atmos a 4500 mAh bat&#xe9;riu s podporou 45W nab&#xed;jania.
 </DESCRIPTION>
             <PRICE_VAT>1104.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>SAMSUNG</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/samsung-galaxy-s22-plus-5g-128gb-cierny?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1020685/detail-image.jpeg</IMGURL>
@@ -3753,7 +3729,7 @@ Nech&#xfd;ba ani sn&#xed;ma&#x10d; odtla&#x10d;kov prstov, zabudovan&#xfd; v bo&
 5000 mAh bat&#xe9;ria poskytuje dostatok v&#xfd;dr&#x17e;e aj na viacdenn&#xe9; pou&#x17e;&#xed;vanie. Navy&#x161;e, Motorola Moto G41 podporuje r&#xfd;chle 30W nab&#xed;janie, pre bleskov&#xe9; doplnenie energie.
 </DESCRIPTION>
             <PRICE_VAT>216.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>MOTOROLA</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/motorola-moto-g41-cierna?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1020990/detail-image.jpeg</IMGURL>
@@ -3784,7 +3760,7 @@ Nech&#xfd;ba ani sn&#xed;ma&#x10d; odtla&#x10d;kov prstov, zabudovan&#xfd; v bo&
             <PRODUCT>OnePlus Nord CE 2 5G 8GB/128GB šedá</PRODUCT>
             <DESCRIPTION>Vynikaj&#xfa;co vybaven&#xfd; smartf&#xf3;n OnePlus Nord CE 2 5G pon&#xfa;ka kvalitn&#xfd; AMOLED displej s vynikaj&#xfa;cim kontrastom, siln&#xfd;m jasom a 90 Hz obnovovacou frekvenciou obrazu. Ur&#x10d;ite vyu&#x17e;ijete aj funkciu Always On, kedy displej zobraz&#xed; v&#x161;etky potrebn&#xe9; inform&#xe1;cie bez zap&#xed;nania a straty bat&#xe9;rie.  V&#xfd;kon zabezpe&#x10d;uje osemjadrov&#xfd; procesor MediaTek MT6877, vyr&#xe1;ban&#xfd; 6nm technol&#xf3;giou. Opa&#x10d;n&#xe1; pam&#xe4;&#x165; dosahuje 8GB, &#x10d;o je naozaj vynikaj&#xfa;ca hodnota, spolu so 128GB &#xfa;lo&#x17e;n&#xfd;m priestorom, vyhovie OnePlus Nord CE2 5G v&#x161;etk&#xfd;m va&#x161;im po&#x17e;iadavk&#xe1;m.  Na zadnej strane n&#xe1;jdete tri sn&#xed;ma&#x10d;e, hlavn&#xfd; 64 Mpx so stabiliz&#xe1;ciou EIS, dop&#x13a;&#x148;a dvojica ultra &#x161;irokouhl&#xe9;ho a makro fotoapar&#xe1;tu. Zvl&#xe1;dnete tak foti&#x165; v uhle a&#x17e; 119&#xb0; a zachyt&#xed;te aj tie najjemnej&#x161;ie detaily.  Bat&#xe9;ria s kapacitou 4 500 mAh v&#xe1;m zaist&#xed; dlhotrvaj&#xfa;cu v&#xfd;dr&#x17e; bez obmedzen&#xed;. S r&#xfd;chlonab&#xed;jan&#xed;m pomocou 65W adapt&#xe9;ra je doplnenie energie z&#xe1;le&#x17e;itos&#x165;ou nieko&#x13e;k&#xfd;ch min&#xfa;t.  Nech&#xfd;ba ani NFC technol&#xf3;gia pre mobiln&#xe9; platby, alebo mo&#x17e;nos&#x165; vyu&#x17e;itia dvoch SIM kariet spolu s pam&#xe4;&#x165;ovou kartou.</DESCRIPTION>
             <PRICE_VAT>384.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>ONEPLUS</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/oneplus-nord-ce-2-5g-sedy?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1021585/detail-image.jpeg</IMGURL>
@@ -3830,7 +3806,7 @@ Vysoko &#xfa;sporn&#xfd; &#x10d;ip A15 Bionic a zdokonalen&#xe1; bat&#xe9;ria pr
 Nov&#xfd; iPhone SE 2022 dostanete v troch farebn&#xfd;ch kombin&#xe1;ci&#xe1;ch, tmavej &#x10d;iernej, hviezdne bielej a v &#x10d;ervenej farbe (PRODUCT)RED.
 </DESCRIPTION>
             <PRICE_VAT>636.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>APPLE</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/apple-iphone-se-2022-128gb-cerveny?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1021034/detail-image.jpeg</IMGURL>
@@ -3861,7 +3837,7 @@ Nov&#xfd; iPhone SE 2022 dostanete v troch farebn&#xfd;ch kombin&#xe1;ci&#xe1;ch
             <PRODUCT>iPhone SE (2022) 4GB/256GB čierna</PRODUCT>
             <DESCRIPTION>Ohrom&#xed; v&#xe1;s r&#xfd;chlos&#x165;ou, nadchne cenou.    Tretia gener&#xe1;cie iPhonu SE ost&#xe1;va vern&#xe1; svojmu charakteristick&#xe9;mu kompaktn&#xe9;mu dizajnu. Podstatn&#xe9; vylep&#x161;enia prich&#xe1;dzaj&#xfa; vo v&#xfd;kone, kamerovom syst&#xe9;me a v&#xfd;dr&#x17e;i bat&#xe9;rie.  Srdcom aj mozgom iPhonu SE je A15 Bionic, rovnak&#xfd; superv&#xfd;konn&#xfd; &#x10d;ip, ak&#xfd; je v iPhone 13. Ohromuj&#xfa;ci v&#xfd;kon naplno vyu&#x17e;ijete pri hran&#xed; najnov&#x161;&#xed;ch hier a multitaskingu. Procesor A15 Bionic stoj&#xed; tie&#x17e; za vyspel&#xfd;mi fotografick&#xfd;mi funkciami, v&#x10f;aka ktor&#xfd;m tv&#xe1;re, miesta aj v&#x161;etko ostatn&#xe9; na tvojich fotk&#xe1;ch vyzer&#xe1; fantasticky.  Novinkou je aj funkcia Smart HDR 4, ktor&#xe1; automaticky dola&#x10f;uje kontrast a svetlo, pre tie najkraj&#x161;ie z&#xe1;bery.     Pri ak&#xfd;chko&#x13e;vek sveteln&#xfd;ch podmienkach sa m&#xf4;&#x17e;ete spo&#x13e;ahn&#xfa;&#x165; na funkciu Deep Fusion, t&#xe1; v polo&#x161;ere a pr&#xed;tm&#xed; analyzuje pixel po pixele r&#xf4;zne expoz&#xed;cie a na fin&#xe1;lnej fotke vykresl&#xed; aj tie najjemnej&#x161;ie detaily, text&#xfa;ry a vzory.    iPhone SE 2022 dost&#xe1;va taktie&#x17e; podporu 5G siete, pre najr&#xfd;chlej&#x161;ie s&#x165;ahovanie a streamovnanie digit&#xe1;lneho obsahu.    Vysoko &#xfa;sporn&#xfd; &#x10d;ip A15 Bionic a zdokonalen&#xe1; bat&#xe9;ria prispievaj&#xfa; k ove&#x13e;a dlh&#x161;ej v&#xfd;dr&#x17e;i bat&#xe9;rie. Pre dobitie m&#xf4;&#x17e;ete vyu&#x17e;i&#x165; aj bezdr&#xf4;tov&#xfa; nab&#xed;ja&#x10d;ku.     Nov&#xfd; iPhone SE 2022 dostanete v troch farebn&#xfd;ch kombin&#xe1;ci&#xe1;ch, tmavej &#x10d;iernej, hviezdne bielej a v &#x10d;ervenej farbe (PRODUCT)RED.</DESCRIPTION>
             <PRICE_VAT>480.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>APPLE</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/apple-iphone-se-2022-256gb-cierny?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1021058/detail-image.jpeg</IMGURL>
@@ -3903,7 +3879,7 @@ Senzor TrueDepth sa zmen&#x161;il, pri&#x10d;om st&#xe1;le obsahuje rovnak&#xe9;
 iPhone 13 Pro Max navy&#x161;e pon&#xfa;ka odolnos&#x165; vo&#x10d;i vode a prachu v &#x161;tandarde IP68. Nech&#xfd;ba ani podpora 5G siete, pre najr&#xfd;chlej&#x161;ie prehliadanie, streamovanie a s&#x165;ahovanie obsahu. iPhone 13 Pro Max prich&#xe1;dza spolu s nov&#xfd;m, vylep&#x161;en&#xfd;m opera&#x10d;n&#xfd;m syst&#xe9;mom iOS 15.
 </DESCRIPTION>
             <PRICE_VAT>1380.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>APPLE</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/apple-iphone-13-pro-max-256gb-modry?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1019536/detail-image.jpeg</IMGURL>
@@ -3952,7 +3928,7 @@ Mobil, ktor&#xfd; zaujme
 Xiaomi Redmi Note 10 je u n&#xe1;s dostupn&#xfd; v &#x161;edej farebnej variante. Nie je n&#xe1;hoda, &#x17e;e v&#xfd;robca sa  in&#x161;piroval pr&#xed;rodou a pr&#xe1;ve preto tento odtie&#x148; dod&#xe1; v&#xe1;&#x161;mu zariadeniu elegantn&#xfd; a modern&#xfd; vzh&#x13e;ad. 
 </DESCRIPTION>
             <PRICE_VAT>120.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>XIAOMI</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/xiaomi-redmi-note-10-sedy?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/89d70669-f8ad-412e-934d-c1c0e80229a7/detail-image.jpeg</IMGURL>
@@ -3990,7 +3966,7 @@ Vysoko &#xfa;sporn&#xfd; &#x10d;ip A15 Bionic a zdokonalen&#xe1; bat&#xe9;ria pr
 Nov&#xfd; iPhone SE 2022 dostanete v troch farebn&#xfd;ch kombin&#xe1;ci&#xe1;ch, tmavej &#x10d;iernej, hviezdne bielej a v &#x10d;ervenej farbe (PRODUCT)RED.
 </DESCRIPTION>
             <PRICE_VAT>564.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>APPLE</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/apple-iphone-se-2022-64gb-cierny?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1021038/detail-image.jpeg</IMGURL>
@@ -4021,7 +3997,7 @@ Nov&#xfd; iPhone SE 2022 dostanete v troch farebn&#xfd;ch kombin&#xe1;ci&#xe1;ch
             <PRODUCT>Nokia 230 DS strieborná</PRODUCT>
             <DESCRIPTION>Mal&#xfd; a &#x161;ikovn&#xfd;</DESCRIPTION>
             <PRICE_VAT>72.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>NOKIA</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/nokia230-dual-sim-strieborny?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1866/detail-image.jpeg</IMGURL>
@@ -4078,7 +4054,7 @@ iOS 12
 
 Nov&#xe1; verzia syst&#xe9;mu iOS 12 je pripraven&#xe1; vyu&#x17e;i&#x165; potenci&#xe1;l Apple iPhone Xs Max na maximum. T&#xe1;to verzia syst&#xe9;mu iOS p...</DESCRIPTION>
             <PRICE_VAT>588.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>APPLE</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/apple-xs-max-512-strieborny?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/8811/detail-image.jpeg</IMGURL>
@@ -4108,7 +4084,7 @@ Bezpe&#x10d;nos&#x165; zabezpe&#x10d;&#xed; mimoriadne presn&#xe1; &#x10d;&#xed;
 Pokia&#x13e; h&#x13e;ad&#xe1;te smartf&#xf3;n s kvalitn&#xfd;m displejom, podporou 5G za dostupn&#xfa; cenu, pr&#xe1;ve ste ho na&#x161;li.
 </DESCRIPTION>
             <PRICE_VAT>276.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>MOTOROLA</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/motorola-edge-20-lite-5g-zelena?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1018950/detail-image.jpeg</IMGURL>
@@ -4154,7 +4130,7 @@ Vysoko &#xfa;sporn&#xfd; &#x10d;ip A15 Bionic a zdokonalen&#xe1; bat&#xe9;ria pr
 Nov&#xfd; iPhone SE 2022 dostanete v troch farebn&#xfd;ch kombin&#xe1;ci&#xe1;ch, tmavej &#x10d;iernej, hviezdne bielej a v &#x10d;ervenej farbe (PRODUCT)RED.
 </DESCRIPTION>
             <PRICE_VAT>564.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>APPLE</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/apple-iphone-se-64gb-2022-biely?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1021040/detail-image.jpeg</IMGURL>
@@ -4200,7 +4176,7 @@ S pribalen&#xfd;m perom S Pen m&#xf4;&#x17e;ete p&#xed;sa&#x165; rovnako pohodln
 Vo v&#xfd;bave n&#xe1;jdete aj Bluetooth 5.2, Wi-Fi 6E, r&#xfd;chle USB-C, stereo reproduktory s podporou Dolby Atmos a 5000 mAh bat&#xe9;riu s podporou 45W nab&#xed;jania.
 </DESCRIPTION>
             <PRICE_VAT>1404.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>SAMSUNG</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/samsung-galaxy-s22-ultra-5g-256gb-cierny?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1020690/detail-image.jpeg</IMGURL>
@@ -4246,7 +4222,7 @@ S pribalen&#xfd;m perom S Pen m&#xf4;&#x17e;ete p&#xed;sa&#x165; rovnako pohodln
 Vo v&#xfd;bave n&#xe1;jdete aj Bluetooth 5.2, Wi-Fi 6E, r&#xfd;chle USB-C, stereo reproduktory s podporou Dolby Atmos a 5000 mAh bat&#xe9;riu s podporou 45W nab&#xed;jania.
 </DESCRIPTION>
             <PRICE_VAT>1404.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>SAMSUNG</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/samsung-galaxy-s22-ultra-5g-256gb-biely?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1021060/detail-image.jpeg</IMGURL>
@@ -4277,7 +4253,7 @@ Vo v&#xfd;bave n&#xe1;jdete aj Bluetooth 5.2, Wi-Fi 6E, r&#xfd;chle USB-C, stere
             <PRODUCT>Xiaomi Redmi 9A 2GB/32GB šedá</PRODUCT>
             <DESCRIPTION>Xiaomi Redmi 9A je &#x10f;al&#x161;&#xed;m n&#xe1;stupcom rady Redmi smartf&#xf3;nov, ktor&#xfd; sa nem&#xe1; za &#x10d;o hanbi&#x165;. &#x160;ikovn&#xfd; mobiln&#xfd; telef&#xf3;n Redmi 9A od zna&#x10d;ky Xiaomi obsahuje v&#x161;etko, &#x10d;o od smartphonu o&#x10d;ak&#xe1;vate. Be&#x17e;&#xed; na OS Android 10 s MIUI 12, pon&#xfa;ka 6,53&#x201c; IPS LCD displej s rozl&#xed;&#x161;en&#xed;m 1600 x 720 px, procesorom MediaTek Helio G25 (12 nm), zadn&#xfd;m fotoap&#xe1;ratom (13 Mpx) a 5 Mpx predn&#xfd;m fotoapar&#xe1;tom. Bat&#xe9;ria je na &#xfa;rovni 5000 mAh. Telef&#xf3;n je poh&#xe1;&#x148;an&#xfd; osemjadrov&#xfd;m procesorom, ktor&#xfd;je dop&#x13a;&#x148;an&#xfd; 2 GB opera&#x10d;nej pam&#xe4;te RAM. Intern&#xe1; pam&#xe4;&#x165; dostala kapacitu 32 GB ktor&#xe1; sa d&#xe1; v&#x161;ak roz&#x161;&#xed;ri&#x165; pomocou pam&#xe4;&#x165;ovej karty o &#x10f;al&#x161;&#xed;ch 512 GB. Xiaomi Redmi 9A je mobiln&#xfd; telef&#xf3;n, ktor&#xe9;ho dizajn si zamilujete na prv&#xfd; poh&#x13e;ad. Matn&#xfd; povrch je elegantn&#xfd; aj praktick&#xfd; a jemn&#xe9; zaoblen&#xe9; hrany mu dod&#xe1;vaj&#xfa; nad&#x10d;asov&#xfd; r&#xe1;z. Svojho favorita si m&#xf4;&#x17e;ete zvoli&#x165; z nieko&#x13e;k&#xfd;ch farebn&#xfd;ch preveden&#xed;. To v&#x161;etko a ove&#x13e;a viac v&#xe1;m pon&#xfa;kne vo svojom kompaktnom tele.</DESCRIPTION>
             <PRICE_VAT>96.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>XIAOMI</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/xiaomi-redmi-9a-sedy?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1015613/detail-image.png</IMGURL>
@@ -4323,7 +4299,7 @@ Vysoko &#xfa;sporn&#xfd; &#x10d;ip A15 Bionic a zdokonalen&#xe1; bat&#xe9;ria pr
 Nov&#xfd; iPhone SE 2022 dostanete v troch farebn&#xfd;ch kombin&#xe1;ci&#xe1;ch, tmavej &#x10d;iernej, hviezdne bielej a v &#x10d;ervenej farbe (PRODUCT)RED.
 </DESCRIPTION>
             <PRICE_VAT>636.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>APPLE</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/apple-iphone-se-2022-128gb-cierny?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1021031/detail-image.jpeg</IMGURL>
@@ -4370,7 +4346,7 @@ S pribalen&#xfd;m perom S Pen m&#xf4;&#x17e;ete p&#xed;sa&#x165; rovnako pohodln
 Vo v&#xfd;bave n&#xe1;jdete aj Bluetooth 5.2, Wi-Fi 6E, r&#xfd;chle USB-C, stereo reproduktory s podporou Dolby Atmos a 5000 mAh bat&#xe9;riu s podporou 45W nab&#xed;jania.
 </DESCRIPTION>
             <PRICE_VAT>1512.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>SAMSUNG</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/samsung-galaxy-s22-ultra-5g-512gb-cierny?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1020695/detail-image.jpeg</IMGURL>
@@ -4412,7 +4388,7 @@ V&#xfd;kon, na ktor&#xfd; sa m&#xf4;&#x17e;e&#x161; spo&#x13e;ahn&#xfa;&#x165;
 &#x10c;ip A13 Bionic je v dne&#x161;nej dobe definovan&#xfd; ako najv&#xfd;konnej&#x161;&#xed; mobiln&#xfd; &#x10d;ip. V porovnan&#xed; s konkurenciou je o nieko&#x13e;ko v&#xfd;vojov&#xfd;ch krokov vpred. A13 Bionic je z&#xe1;rukou exkl&#xfa;zivn&#xe9;ho v&#xfd;konu, ktor&#xfd; ide v ruka v ruke s dlhou v&#xfd;dr&#x17e;ou bat&#xe9;rie na jedno nabitie. V pr&#xed;pade, &#x17e;e sa v&#xe1;&#x161; mobil vybije, m&#xf4;&#x17e;ete pou&#x17e;i&#x165; r&#xfd;chly 18W adapt&#xe9;r.
 </DESCRIPTION>
             <PRICE_VAT>1176.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>APPLE</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/apple-iphone-11-pro-64gb-sedy?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/12660/detail-image.png</IMGURL>
@@ -4445,7 +4421,7 @@ V OPPO vybavili A16s podporou NFC, bezkontaktn&#xe9; platby smartf&#xf3;nom, tak
 Nov&#xfd; smartf&#xf3;n OPPO A16s sa stane va&#x161;im vern&#xfd;m a spo&#x13e;ahliv&#xfd;m spolo&#x10d;n&#xed;kom, v ka&#x17e;dej situ&#xe1;cii.
 </DESCRIPTION>
             <PRICE_VAT>144.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>OPPO</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/oppo-a16s-cierny-lte?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1019157/detail-image.jpeg</IMGURL>
@@ -4476,7 +4452,7 @@ Nov&#xfd; smartf&#xf3;n OPPO A16s sa stane va&#x161;im vern&#xfd;m a spo&#x13e;a
             <PRODUCT>MAXCOM MM247 Classic čierna</PRODUCT>
             <DESCRIPTION>Jednoduch&#xfd; tla&#x10d;idlov&#xfd; telef&#xf3;n pote&#x161;&#xed; priate&#x13e;sk&#xfd;m opera&#x10d;n&#xfd;m syst&#xe9;mom aj funkciami navy&#x161;e.  Maxcom MM247 pon&#xfa;ka displej s ve&#x13e;kos&#x165;ou 2,4&quot; a pohodln&#xfa; kl&#xe1;vesnicu pre p&#xed;sanie spr&#xe1;v.   Navy&#x161;e disponuje podporou LTE a technol&#xf3;gie VoLTE pre kvalitnej&#x161;ie hovory.   Pote&#x161;&#xed; pr&#xed;tomnos&#x165; LED di&#xf3;dy a v&#xfd;nimo&#x10d;n&#xe1; viacdenn&#xe1; v&#xfd;dr&#x17e; bat&#xe9;rie. Nech&#xfd;ba ani z&#xe1;kladn&#xfd; fotoapar&#xe1;t a podpora SD karty.</DESCRIPTION>
             <PRICE_VAT>48.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>MAXCOM</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/maxcom-mm247-cierny?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1020354/detail-image.jpeg</IMGURL>
@@ -4517,7 +4493,7 @@ maximum a nenech&#xe1; v&#xe1;s v &#x161;tichu. Ide&#xe1;lna zlat&#xe1; cesta, a
 mobiln&#xfd; telef&#xf3;n s podporou 5G.
 </DESCRIPTION>
             <PRICE_VAT>324.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>SAMSUNG</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/samsung-galaxy-a32-5g-cierny?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1017401/detail-image.jpeg</IMGURL>
@@ -4562,7 +4538,7 @@ Skvel&#xfd; dizajn a vysok&#xfd; v&#xfd;kon spojen&#xfd; so super r&#xfd;chlym n
 
 </DESCRIPTION>
             <PRICE_VAT>408.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>REALME</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/realme-gt-master-edition-5g-biely?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1019358/detail-image.jpeg</IMGURL>
@@ -4593,7 +4569,7 @@ Skvel&#xfd; dizajn a vysok&#xfd; v&#xfd;kon spojen&#xfd; so super r&#xfd;chlym n
             <PRODUCT>Cat® B26 8MB/8MB čierna</PRODUCT>
             <DESCRIPTION>Mobiln&#xfd; telef&#xf3;n Cat&amp;reg; B26 v&#xe1;s uchv&#xe1;ti svojou v&#xfd;dr&#x17e;ou. A nehovor&#xed;me len o v&#xfd;dr&#x17e;i bat&#xe9;rie ale i odolnosti telef&#xf3;nu.  Cat&amp;reg; B26 vydr&#x17e;&#xed; aj v poriadnom da&#x17e;di, preto&#x17e;e je vybaven&#xfd; odolnos&#x165;ou IP68, a je teda vodeodoln&#xfd; a&#x17e; do h&#x13a;bky 1,2 m. Certifik&#xe1;t IP68 zaru&#x10d;uje aj odolnos&#x165; vo&#x10d;i prachu. Telef&#xf3;n sp&#x13a;&#x148;a vojensk&#xfd; &#x161;tandard odolnosti MIL SPEC 810G a to v oblastiach, ako je odolnos&#x165; vo&#x10d;i extr&#xe9;mn&#xfd;m teplot&#xe1;m, vibr&#xe1;c&#xed;am alebo vlhkosti. A pri poh&#x13e;ade na stavbu telef&#xf3;nu si m&#xf4;&#x17e;ete by&#x165; ist&#xfd;, &#x17e;e mu neubl&#xed;&#x17e;i ani p&#xe1;d na bet&#xf3;n z hocijakej v&#xfd;&#x161;kyVr&#xe1;&#x165;me sa ale i ku v&#xfd;dr&#x17e;i bat&#xe9;rii. Na nab&#xed;ja&#x10d;ku si ve&#x13e;mi &#x10d;asto nespomeniete. Cat&amp;reg; B26  obsahuje Li-Ion bat&#xe9;riu s vysokou kapacitou 1500 mAh, v&#x10f;aka ktorej je mo&#x17e;n&#xe9; telef&#xf3;n udr&#x17e;a&#x165; pri &#x17e;ivote cel&#xfa; ve&#x13e;nos&#x165;. U&#x17e;&#xed;va&#x165; si m&#xf4;&#x17e;ete a&#x17e; 13 hodin hovorov alebo neskuto&#x10d;n&#xfd;ch 18 dn&#xed; v pohotovostnom re&#x17e;ime.</DESCRIPTION>
             <PRICE_VAT>60.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>CATERPILLAR</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/cat-b26-cierny?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/12762/detail-image.png</IMGURL>
@@ -4626,7 +4602,7 @@ Skvel&#xfd; dizajn a vysok&#xfd; v&#xfd;kon spojen&#xfd; so super r&#xfd;chlym n
 U&#x17e;&#xed;vajte si dokonal&#xfd; poh&#x13e;ad, nech u&#x17e; v&#xe1;s &#x17e;ivot zavedie kamko&#x13e;vek. Displej s 5,3&quot; uhloprie&#x10d;kou p&#x159;in&#xe1;&#x161;a jedine&#x10d;n&#xfd; z&#xe1;&#x17e;itok zo sledovania fotografi&#xed;, m&#xe1;p a &#x10f;al&#x161;ieho vizu&#xe1;lneho obsahu, nech u&#x17e; ste na cest&#xe1;ch alebo inde v ter&#xe9;ne. Po&#x10d;as pou&#x17e;&#xed;vania smartf&#xf3;nu bud&#xfa; va&#x161;e ruky v teple a suchu. Galaxy XCover 5 je vybaven&#xfd; intuitivn&#xfd;m displejom, ktor&#xfd; v&#xe1;m umo&#x17e;n&#xed; pracova&#x165; so smartf&#xf3;nom i v rukaviciacch. Bez probl&#xe9;mov ho tak m&#xf4;&#x17e;ete pou&#x17e;&#xed;va&#x165; pri pr&#xe1;ci vonku alebo pri outdoorov&#xfd;ch aktivit&#xe1;ch.
 </DESCRIPTION>
             <PRICE_VAT>264.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>SAMSUNG</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/samsung-galaxy-xcover-5-cierny?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1017734/detail-image.jpeg</IMGURL>
@@ -4672,7 +4648,7 @@ Vysoko &#xfa;sporn&#xfd; &#x10d;ip A15 Bionic a zdokonalen&#xe1; bat&#xe9;ria pr
 Nov&#xfd; iPhone SE 2022 dostanete v troch farebn&#xfd;ch kombin&#xe1;ci&#xe1;ch, tmavej &#x10d;iernej, hviezdne bielej a v &#x10d;ervenej farbe (PRODUCT)RED.
 </DESCRIPTION>
             <PRICE_VAT>636.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>APPLE</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/apple-iphone-se-2022-128gb-biely?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1021029/detail-image.jpeg</IMGURL>
@@ -4718,7 +4694,7 @@ Vysoko &#xfa;sporn&#xfd; &#x10d;ip A15 Bionic a zdokonalen&#xe1; bat&#xe9;ria pr
 Nov&#xfd; iPhone SE 2022 dostanete v troch farebn&#xfd;ch kombin&#xe1;ci&#xe1;ch, tmavej &#x10d;iernej, hviezdne bielej a v &#x10d;ervenej farbe (PRODUCT)RED.
 </DESCRIPTION>
             <PRICE_VAT>564.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>APPLE</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/apple-iphone-se-64gb-2022-cerveny?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1021036/detail-image.jpeg</IMGURL>
@@ -4772,7 +4748,7 @@ V&#xfd;kon, na ktor&#xfd; sa m&#xf4;&#x17e;e&#x161; spo&#x13e;ahn&#xfa;&#x165;
 	
 </DESCRIPTION>
             <PRICE_VAT>492.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>APPLE</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/apple-iphone-11-64gb-2020-cierny?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1018238/detail-image.jpeg</IMGURL>
@@ -4813,7 +4789,7 @@ Bezpe&#x10d;nos&#x165; zabezpe&#x10d;&#xed; mimoriadne presn&#xe1; &#x10d;&#xed;
 Pokia&#x13e; h&#x13e;ad&#xe1;te smartf&#xf3;n s kvalitn&#xfd;m displejom, podporou 5G za dostupn&#xfa; cenu, pr&#xe1;ve ste ho na&#x161;li.
 </DESCRIPTION>
             <PRICE_VAT>276.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>MOTOROLA</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/motorola-edge-20-lite-5g-sedy?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1018955/detail-image.jpeg</IMGURL>
@@ -4849,7 +4825,7 @@ Nov&#xfd; rad iPhone pon&#xfa;ka OLED displej, v&#x10f;aka ktor&#xe9;mu m&#xe1;t
 Nov&#xfd; procesor A14 Bionic pon&#xfa;ka okrem u&#x17e; zn&#xe1;mej 5nm technol&#xf3;gie v&#xfd;roby &#x10d;i vysokej energetickej &#xfa;spore, ale aj ove&#x13e;a vy&#x161;&#x161;&#xed; v&#xfd;kon. V&#x10f;aka nov&#xe9;mu &#x10d;ipu, ktor&#xfd; m&#xe1; na starosti umel&#xfa; inteligenciu smartf&#xf3;nu, a jej vy&#x161;&#x161;iemu v&#xfd;konu nabral na sile aj fotoapar&#xe1;t a tak s touto novinkou m&#xf4;&#x17e;e vytv&#xe1;ra&#x165; naozaj kr&#xe1;sne fotografie a zachyt&#xed;te v&#x161;etky d&#xf4;le&#x17e;it&#xe9; momenty.
 </DESCRIPTION>
             <PRICE_VAT>408.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>APPLE</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/apple-iphone-12-64gb-cierny?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/1018921/detail-image.png</IMGURL>
@@ -4892,7 +4868,7 @@ Energia na rozd&#xe1;vanie
 Technol&#xf3;gia bezdr&#xf4;tov&#xe9;ho zdie&#x13e;anie energie v&#xe1;m d&#xe1;va mo&#x17e;nos&#x165; nab&#xed;ja&#x165; aj &#x10f;al&#x161;ie zariadenia a podeli&#x165; sa tak o va&#x161;u 3 400 mAh bat&#xe9;riu. A v&#x10f;aka podpore r&#xfd;chleho bezdr&#xf4;tov&#xe9;ho nab&#xed;jania bude kapacita bat&#xe9;rie zakr&#xe1;tko op&#xe4;&#x165; stopercentn&#xe1;. Samsung navrhol hardware aj software tak, aby bol v&#xfd;kon pri hran&#xed; hier lep&#x161;&#xed; a bez ome&#x161;kan&#xed;. Inteligencia a pokro&#x10d;il&#xfd; hardware telef&#xf3;nu sa u&#x10d;&#xed;, ako telef&#xf3;n pou&#x17e;&#xed;vate. Prisp&#xf4;sobuje jeho mo&#x17e;nosti tak, aby dlh&#x161;ie vydr&#x17e;al a lep&#x161;ie sa v&#xe1;m s n&#xed;m pracovalo. Tak&#x17e;e budete ove&#x13e;a efekt&#xed;vnej&#x161;&#xed; cel&#xfd; de&#x148;.
 </DESCRIPTION>
             <PRICE_VAT>600.0</PRICE_VAT>
-            <CATEGORYTEXT>Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
+            <CATEGORYTEXT>Heureka.sk | Elektronika | Mobily, tablety, nositeľná elektronika | Mobilné telefóny</CATEGORYTEXT>
             <MANUFACTURER>SAMSUNG</MANUFACTURER>
             <URL>https://www.o2.sk/e-shop/-/produkt/samsung-galaxy-s-10-128-gb-cierny?preferredProgram=</URL>
             <IMGURL>https://www.o2static.sk/media/products/10475/detail-image.jpeg</IMGURL>
